@@ -1,0 +1,726 @@
+Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,New_Price,Price,make,model
+Hyundai i20 1.2 Magna,8,2010,45807,1,1,1,18.5,1197,80.0,5.0,10.0,1.87,Hyundai,1
+Hyundai i20 Magna Optional 1.2,7,2014,35487,1,1,1,18.5,1197,82.9,5.0,10.0,4.74,Hyundai,1
+Hyundai Grand i10 Sportz,2,2015,54000,1,1,3,18.9,1197,82.0,5.0,7.5,3.6,Hyundai,2
+Hyundai i10 Asta,8,2010,32000,1,1,1,20.36,1197,78.9,5.0,6.5,2.07,Hyundai,3
+Hyundai i10 Sportz 1.2 AT,7,2012,45178,1,2,1,16.95,1197,78.9,5.0,6.5,3.48,Hyundai,3
+Hyundai i10 Sportz 1.2,10,2009,95980,1,1,1,20.36,1197,78.9,5.0,6.5,2.25,Hyundai,3
+Hyundai Grand i10 Sportz,1,2016,16000,1,1,1,18.9,1197,82.0,5.0,7.5,5.75,Hyundai,2
+Hyundai Verna Transform SX VGT CRDi,0,2010,70002,2,1,1,16.2,1493,110.0,5.0,13.5,3.45,Hyundai,4
+Hyundai i20 1.4 CRDi Sportz,10,2011,78958,2,1,2,23.0,1396,90.0,5.0,10.0,3.8,Hyundai,1
+Hyundai i20 Asta 1.2,9,2014,30180,1,1,1,18.5,1197,82.85,5.0,10.0,4.65,Hyundai,1
+Hyundai i20 2015-2017 Asta,10,2009,66000,1,1,2,17.0,1197,80.0,5.0,10.0,2.7,Hyundai,1
+Hyundai Verna 1.6 SX CRDI (O) AT,8,2014,40000,2,2,1,22.32,1582,126.32,5.0,13.5,5.25,Hyundai,4
+Hyundai Verna CRDi 1.6 SX Option,8,2018,10250,2,1,1,22.0,1582,126.2,5.0,13.5,10.95,Hyundai,4
+Hyundai Verna VTVT 1.6 AT SX Plus,7,2019,12645,1,2,1,17.0,1591,121.3,5.0,13.5,11.5,Hyundai,4
+Hyundai i10 Magna 1.2,4,2013,60000,1,1,1,20.36,1197,78.9,5.0,6.5,2.75,Hyundai,3
+Hyundai Grand i10 1.2 Kappa Asta,8,2019,1000,1,1,1,18.9,1197,81.86,5.0,7.5,6.5,Hyundai,2
+Hyundai i20 Asta 1.4 CRDi,1,2014,29000,2,1,1,22.54,1396,88.73,5.0,10.0,8.35,Hyundai,1
+Hyundai Verna 1.6 SX,4,2012,62000,2,1,1,22.32,1582,126.32,5.0,13.5,4.6,Hyundai,4
+Hyundai i10 Magna 1.1,7,2017,52340,1,1,1,19.81,1086,68.05,5.0,6.5,4.04,Hyundai,3
+Hyundai i10 Magna,6,2015,43571,1,1,1,20.36,1197,78.9,5.0,6.5,3.55,Hyundai,3
+Hyundai i20 Asta Option 1.2,7,2016,61012,1,1,1,18.6,1197,81.83,5.0,10.0,6.0,Hyundai,1
+Hyundai Verna 1.6 SX,6,2012,117837,2,1,2,22.32,1582,126.32,5.0,13.5,4.75,Hyundai,4
+Hyundai i10 Magna 1.1,10,2012,44000,1,1,2,19.81,1086,68.05,5.0,6.5,2.9,Hyundai,3
+Hyundai i20 Active 1.2 SX,3,2018,25166,1,1,1,17.19,1197,81.86,5.0,10.0,8.22,Hyundai,1
+Hyundai i20 1.2 Magna Executive,7,2018,14960,1,1,1,18.6,1197,81.83,5.0,10.0,6.27,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,7,2015,56847,2,1,1,22.54,1396,88.73,5.0,10.0,7.2,Hyundai,1
+Hyundai Grand i10 CRDi Era,9,2017,33000,2,1,1,24.0,1120,70.0,5.0,7.5,4.75,Hyundai,2
+Hyundai i10 Era,6,2010,83000,1,1,1,19.81,1086,68.05,5.0,6.5,1.75,Hyundai,3
+Hyundai Grand i10 Magna,9,2014,16514,1,1,1,18.9,1197,82.0,5.0,7.5,3.75,Hyundai,2
+Hyundai Verna CRDi 1.6 SX,5,2008,143275,2,1,1,22.0,1582,126.2,5.0,13.5,2.6,Hyundai,4
+Hyundai i20 1.2 Sportz,9,2010,52000,1,1,1,17.0,1197,80.0,5.0,10.0,2.8,Hyundai,1
+Hyundai i10 Sportz,1,2010,36000,1,1,2,20.36,1197,78.9,5.0,6.5,3.25,Hyundai,3
+Hyundai Verna 1.6 SX VTVT (O),7,2012,54308,1,1,1,17.1,1591,121.3,5.0,13.5,4.28,Hyundai,4
+Hyundai i20 Magna Optional 1.4 CRDi,8,2013,46000,2,1,1,21.9,1396,88.8,5.0,10.0,3.11,Hyundai,1
+Hyundai i20 Sportz AT 1.4,3,2014,45051,1,2,1,15.0,1396,98.6,5.0,10.0,5.96,Hyundai,1
+Hyundai i10 Magna 1.2,5,2010,74000,1,1,1,20.36,1197,78.9,5.0,6.5,3.1,Hyundai,3
+Hyundai i10 Magna 1.2 iTech SE,10,2012,45275,1,1,1,20.36,1197,78.9,5.0,6.5,2.8,Hyundai,3
+Hyundai i20 1.4 CRDi Asta,10,2012,83000,2,1,1,23.0,1396,90.0,5.0,10.0,5.5,Hyundai,1
+Hyundai i10 Sportz AT,1,2009,37000,1,2,3,16.95,1197,78.9,5.0,6.5,2.95,Hyundai,3
+Hyundai i20 Asta 1.2,10,2011,79152,1,1,2,18.5,1197,82.85,5.0,10.0,3.3,Hyundai,1
+Hyundai i20 Asta Option 1.2,3,2016,24973,1,1,1,18.6,1197,81.83,5.0,10.0,7.66,Hyundai,1
+Hyundai Verna 1.6 SX,1,2012,80000,2,1,1,22.32,1582,126.32,5.0,13.5,5.25,Hyundai,4
+Hyundai i10 Magna 1.2,2,2009,620000,1,1,1,20.36,1197,78.9,5.0,6.5,2.7,Hyundai,3
+Hyundai Grand i10 AT Asta,3,2015,37081,1,2,1,18.9,1197,82.0,5.0,7.5,5.77,Hyundai,2
+Hyundai Verna Transform VTVT,10,2010,95000,1,1,1,16.2,1599,103.2,5.0,13.5,2.5,Hyundai,4
+Hyundai Verna 1.6 SX VTVT,10,2011,49768,1,1,2,17.01,1591,121.3,5.0,13.5,4.95,Hyundai,4
+Hyundai i20 Active SX Petrol,6,2017,40250,1,1,1,17.19,1197,81.86,5.0,10.0,6.9,Hyundai,1
+Hyundai Grand i10 SportZ Edition,7,2018,40322,1,1,1,18.9,1197,81.86,5.0,7.5,5.5,Hyundai,2
+Hyundai i20 1.2 Asta Option,3,2017,26185,1,1,1,18.6,1197,81.83,5.0,10.0,7.98,Hyundai,1
+Hyundai i20 2015-2017 Asta 1.2,10,2016,6800,1,1,1,18.6,1197,81.83,5.0,10.0,7.2,Hyundai,1
+Hyundai Grand i10 CRDi Magna,8,2017,14000,2,1,1,24.0,1120,70.0,5.0,7.5,4.6,Hyundai,2
+Hyundai Grand i10 Sportz,4,2015,27000,1,1,1,18.9,1197,82.0,5.0,7.5,4.5,Hyundai,2
+Hyundai Verna 1.6 SX,8,2013,37873,2,1,1,22.32,1582,126.32,5.0,13.5,4.8,Hyundai,4
+Hyundai i10 Era,6,2010,59000,1,1,2,19.81,1086,68.05,5.0,6.5,2.32,Hyundai,3
+Hyundai Grand i10 Sportz,9,2017,8500,1,1,2,18.9,1197,82.0,5.0,7.5,4.8,Hyundai,2
+Hyundai i20 Asta 1.4 CRDi,4,2014,43900,2,1,1,22.54,1396,88.73,5.0,10.0,6.75,Hyundai,1
+Hyundai Verna 1.6 SX CRDI (O) AT,3,2019,77240,2,2,1,22.32,1582,126.32,5.0,13.5,8.31,Hyundai,4
+Hyundai i20 1.2 Spotz,7,2016,42362,1,1,1,18.6,1197,81.83,5.0,10.0,6.15,Hyundai,1
+Hyundai i20 1.2 Magna,1,2015,59000,1,1,1,18.5,1197,80.0,5.0,10.0,5.75,Hyundai,1
+Hyundai Verna 1.6 SX CRDi (O),6,2012,72000,2,1,2,22.32,1582,126.32,5.0,13.5,5.8,Hyundai,4
+Hyundai Verna 1.6 CRDi SX,3,2017,38056,2,1,1,23.9,1582,126.2,5.0,13.5,10.7,Hyundai,4
+Hyundai i20 Asta 1.4 CRDi,4,2014,67407,2,1,1,21.27,1396,88.76,5.0,10.0,4.65,Hyundai,1
+Hyundai i20 Sportz Option,4,2013,48454,1,1,2,17.0,1197,80.0,5.0,10.0,3.5,Hyundai,1
+Hyundai i10 Sportz,8,2013,25000,1,1,1,20.36,1197,78.9,5.0,6.5,2.65,Hyundai,3
+Hyundai Verna 1.6 CRDI,3,2016,37882,2,1,1,22.32,1582,126.3,5.0,13.5,9.19,Hyundai,4
+Hyundai i20 1.4 Magna ABS,2,2009,47000,2,1,1,21.9,1396,90.0,5.0,10.0,2.8,Hyundai,1
+Hyundai Grand i10 CRDi Sportz,6,2014,64000,2,1,1,24.0,1120,70.0,5.0,7.5,4.15,Hyundai,2
+Hyundai Verna CRDi SX,6,2008,170000,2,1,2,16.8,1493,110.0,5.0,13.5,1.5,Hyundai,4
+Hyundai i20 Asta Option 1.2,10,2016,21000,1,1,1,18.6,1197,81.83,5.0,10.0,6.3,Hyundai,1
+Hyundai i10 Magna Optional 1.1L,5,2008,80400,1,1,1,16.0,1086,66.7,5.0,6.5,2.3,Hyundai,3
+Hyundai Verna 1.6 SX CRDi (O),6,2012,75200,2,1,1,22.32,1582,126.32,5.0,13.5,5.25,Hyundai,4
+Hyundai i20 Asta 1.4 CRDi,5,2015,86157,2,1,1,22.54,1396,88.73,5.0,10.0,6.5,Hyundai,1
+Hyundai i20 Asta,1,2009,64000,1,1,2,17.0,1197,80.0,5.0,10.0,4.1,Hyundai,1
+Hyundai i10 Sportz,9,2011,35000,1,1,1,20.36,1197,78.9,5.0,6.5,2.75,Hyundai,3
+Hyundai Grand i10 Asta,3,2017,74515,1,1,1,18.9,1197,82.0,5.0,7.5,5.64,Hyundai,2
+Hyundai Verna 1.6 VTVT,7,2017,37688,1,1,1,17.01,1591,121.3,5.0,13.5,7.88,Hyundai,4
+Hyundai i20 1.2 Magna,2,2010,67714,1,1,1,18.5,1197,80.0,5.0,10.0,3.25,Hyundai,1
+Hyundai Verna Transform VTVT,10,2010,51000,1,1,1,16.2,1599,103.2,5.0,13.5,3.1,Hyundai,4
+Hyundai Grand i10 1.2 CRDi Magna,8,2017,14000,2,1,1,24.0,1186,73.97,5.0,7.5,4.9,Hyundai,2
+Hyundai i10 Sportz AT,3,2014,41016,1,2,2,16.95,1197,78.9,5.0,6.5,5.08,Hyundai,3
+Hyundai Verna 1.6 SX,1,2012,67000,2,1,1,22.32,1582,126.32,5.0,13.5,6.25,Hyundai,4
+Hyundai Verna 1.6 SX,5,2011,98000,2,1,2,22.32,1582,126.32,5.0,13.5,5.2,Hyundai,4
+Hyundai i20 Magna 1.2,9,2018,19500,1,1,1,18.6,1197,81.83,5.0,10.0,5.85,Hyundai,1
+Hyundai Verna 1.6 SX VTVT,5,2014,67000,1,1,1,17.01,1591,121.3,5.0,13.5,5.6,Hyundai,4
+Hyundai i20 1.2 Asta Option,8,2018,11000,1,1,1,18.6,1197,81.83,5.0,10.0,6.35,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),8,2013,35000,1,1,1,17.1,1591,121.3,5.0,13.5,4.5,Hyundai,4
+Hyundai i10 Sportz,7,2016,21456,1,1,1,20.36,1197,78.9,5.0,6.5,4.55,Hyundai,3
+Hyundai i20 Asta Option 1.2,9,2015,37000,1,1,2,18.6,1197,81.83,5.0,10.0,5.25,Hyundai,1
+Hyundai i20 Asta Option 1.2,7,2017,58620,1,1,1,18.6,1197,81.83,5.0,10.0,7.14,Hyundai,1
+Hyundai i20 1.2 Sportz,6,2012,71172,1,1,3,17.0,1197,80.0,5.0,10.0,3.5,Hyundai,1
+Hyundai i20 1.4 Asta,2,2017,12000,2,1,1,22.54,1396,88.73,5.0,10.0,7.3,Hyundai,1
+Hyundai i20 1.4 Asta Option,1,2017,43000,2,1,2,22.54,1396,88.73,5.0,10.0,8.2,Hyundai,1
+Hyundai Grand i10 CRDi Magna,7,2016,52625,2,1,1,24.0,1120,70.0,5.0,7.5,4.58,Hyundai,2
+Hyundai i10 Magna 1.1,3,2014,60138,1,1,1,19.81,1086,68.05,5.0,6.5,4.09,Hyundai,3
+Hyundai Verna 1.6 CRDi EX AT,4,2013,66000,2,2,1,22.32,1582,126.3,5.0,13.5,5.7,Hyundai,4
+Hyundai Verna 1.6 SX CRDi (O),3,2015,72996,2,1,1,22.32,1582,126.32,5.0,13.5,7.11,Hyundai,4
+Hyundai i20 1.2 Asta Option,3,2018,15985,1,1,1,18.6,1197,81.83,5.0,10.0,7.77,Hyundai,1
+Hyundai i20 Magna 1.2,5,2014,70089,1,1,1,18.6,1197,81.83,5.0,10.0,5.35,Hyundai,1
+Hyundai Grand i10 AT Asta,3,2015,61717,1,2,1,18.9,1197,82.0,5.0,7.5,5.57,Hyundai,2
+Hyundai i10 Sportz,1,2010,69000,1,1,1,20.36,1197,78.9,5.0,6.5,2.9,Hyundai,3
+Hyundai i10 Magna,6,2010,66770,1,1,2,20.36,1197,78.9,5.0,6.5,2.6,Hyundai,3
+Hyundai i10 Magna 1.1,7,2014,58472,1,1,1,19.81,1086,68.05,5.0,6.5,3.41,Hyundai,3
+Hyundai Verna CRDi SX,5,2013,82966,2,1,1,16.8,1493,110.0,5.0,13.5,7.2,Hyundai,4
+Hyundai i20 1.2 Asta,4,2013,71000,1,1,1,17.0,1197,80.0,5.0,10.0,3.65,Hyundai,1
+Hyundai i20 Sportz Diesel,4,2012,71000,2,1,1,23.0,1396,90.0,5.0,10.0,3.7,Hyundai,1
+Hyundai Grand i10 AT Asta,3,2017,19168,1,2,1,18.9,1197,82.0,5.0,7.5,6.93,Hyundai,2
+Hyundai i10 Era,6,2008,84000,1,1,2,19.81,1086,68.05,5.0,6.5,1.8,Hyundai,3
+Hyundai i20 1.2 Sportz,10,2011,41980,1,1,2,17.0,1197,80.0,5.0,10.0,3.3,Hyundai,1
+Hyundai Grand i10 AT Asta,10,2014,37632,1,2,1,18.9,1197,82.0,5.0,7.5,4.5,Hyundai,2
+Hyundai Verna 1.6 SX VTVT (O) AT,3,2012,54957,1,2,1,17.1,1591,121.4,5.0,13.5,5.37,Hyundai,4
+Hyundai i20 Sportz 1.4 CRDi,5,2015,26000,2,1,1,22.54,1396,88.73,5.0,10.0,6.2,Hyundai,1
+Hyundai i20 1.2 Magna,8,2010,18000,1,1,1,18.5,1197,80.0,5.0,10.0,2.25,Hyundai,1
+Hyundai Verna 1.6 SX,0,2014,63003,2,1,1,22.32,1582,126.32,5.0,13.5,6.75,Hyundai,4
+Hyundai i20 Asta (o) 1.4 CRDi (Diesel),1,2014,67000,2,1,1,23.0,1396,90.0,5.0,10.0,5.5,Hyundai,1
+Hyundai Grand i10 Asta Option,3,2016,44178,1,1,1,18.9,1197,82.0,5.0,7.5,5.88,Hyundai,2
+Hyundai i20 1.2 Magna,8,2015,35000,1,1,1,18.5,1197,80.0,5.0,10.0,4.6,Hyundai,1
+Hyundai i10 Era 1.1,4,2012,51000,1,1,2,19.81,1086,68.05,5.0,6.5,2.2,Hyundai,3
+Hyundai i10 Sportz,8,2009,43002,1,1,1,20.36,1197,78.9,5.0,6.5,1.92,Hyundai,3
+Hyundai Grand i10 Sportz,8,2013,29000,1,1,1,18.9,1197,82.0,5.0,7.5,3.2,Hyundai,2
+Hyundai i20 Asta 1.4 CRDi (Diesel),7,2010,93401,2,1,1,23.0,1396,90.0,5.0,10.0,3.48,Hyundai,1
+Hyundai i20 1.2 Sportz Option,1,2010,61000,1,1,4,17.0,1197,80.0,5.0,10.0,3.25,Hyundai,1
+Hyundai i10 Magna 1.2,7,2013,46821,1,1,1,20.36,1197,78.9,5.0,6.5,3.42,Hyundai,3
+Hyundai i10 Asta AT,9,2011,64984,1,2,1,16.95,1197,78.9,5.0,6.5,3.45,Hyundai,3
+Hyundai Verna CRDi 1.6 SX Option,7,2014,89614,2,1,1,22.0,1582,126.2,5.0,13.5,6.01,Hyundai,4
+Hyundai i20 Sportz Option,2,2012,50000,1,1,1,17.0,1197,80.0,5.0,10.0,4.0,Hyundai,1
+Hyundai Verna CRDi SX,10,2012,94900,2,1,1,16.8,1493,110.0,5.0,13.5,5.35,Hyundai,4
+Hyundai Verna 1.6 SX VTVT,9,2016,52001,1,1,1,17.01,1591,121.3,5.0,13.5,6.45,Hyundai,4
+Hyundai i20 Magna 1.4 CRDi,5,2016,33016,2,1,1,22.54,1396,88.73,5.0,10.0,6.85,Hyundai,1
+Hyundai i10 Magna AT,1,2009,60000,1,2,1,19.2,1197,80.0,5.0,6.5,2.99,Hyundai,3
+Hyundai Grand i10 CRDi Magna,7,2016,57738,2,1,1,24.0,1120,70.0,5.0,7.5,5.04,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Magna,4,2017,8471,1,1,1,18.9,1197,81.86,5.0,7.5,5.0,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Asta,5,2017,20000,1,1,1,18.9,1197,81.86,5.0,7.5,5.98,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Magna,7,2018,50234,1,1,1,18.9,1197,81.86,5.0,7.5,4.77,Hyundai,2
+Hyundai i20 1.2 Magna,0,2010,65000,1,1,1,18.5,1197,80.0,5.0,10.0,3.0,Hyundai,1
+Hyundai i10 Era,6,2013,46230,1,1,1,19.81,1086,68.05,5.0,6.5,3.1,Hyundai,3
+Hyundai i20 1.2 Asta,6,2018,5000,1,1,1,18.6,1197,81.83,5.0,10.0,6.5,Hyundai,1
+Hyundai Verna VTVT 1.6 AT SX Option,9,2015,40600,1,2,1,17.0,1591,121.3,5.0,13.5,7.2,Hyundai,4
+Hyundai Verna CRDi 1.6 AT SX Option,0,2013,87000,2,2,1,22.0,1582,126.2,5.0,13.5,5.9,Hyundai,4
+Hyundai i10 Magna Optional 1.1L,8,2010,27089,1,1,1,16.0,1086,66.7,5.0,6.5,1.95,Hyundai,3
+Hyundai Verna 1.6 SX VTVT (O) AT,9,2017,16100,1,2,1,17.1,1591,121.4,5.0,13.5,11.6,Hyundai,4
+Hyundai i10 Sportz,10,2009,62500,1,1,1,20.36,1197,78.9,5.0,6.5,2.1,Hyundai,3
+Hyundai i20 Magna Optional 1.4 CRDi,9,2014,12400,2,1,1,21.9,1396,88.8,5.0,10.0,4.65,Hyundai,1
+Hyundai i10 Sportz,7,2015,16900,1,1,1,20.36,1197,78.9,5.0,6.5,3.87,Hyundai,3
+Hyundai i10 Sportz,4,2013,62334,1,1,1,20.36,1197,78.9,5.0,6.5,2.75,Hyundai,3
+Hyundai i20 Asta 1.4 CRDi,7,2015,46950,2,1,1,21.27,1396,88.76,5.0,10.0,6.45,Hyundai,1
+Hyundai Grand i10 Sportz,0,2017,17125,1,1,1,18.9,1197,82.0,5.0,7.5,5.4,Hyundai,2
+Hyundai i20 1.2 Magna,8,2010,18000,1,1,1,18.5,1197,80.0,5.0,10.0,2.3,Hyundai,1
+Hyundai Grand i10 CRDi Sportz Celebration Edition,7,2018,35070,2,1,1,24.0,1120,70.0,5.0,7.5,5.99,Hyundai,2
+Hyundai i10 Sportz 1.2,8,2009,40000,1,1,1,20.36,1197,78.9,5.0,6.5,1.7,Hyundai,3
+Hyundai i20 Asta,8,2009,43000,1,1,1,17.0,1197,80.0,5.0,10.0,1.99,Hyundai,1
+Hyundai Grand i10 AT Asta,9,2015,29631,1,2,1,18.9,1197,82.0,5.0,7.5,4.9,Hyundai,2
+Hyundai i20 Magna Optional 1.2,4,2013,63777,1,1,1,18.5,1197,82.9,5.0,10.0,3.67,Hyundai,1
+Hyundai Grand i10 CRDi Magna,4,2014,45000,2,1,1,24.0,1120,70.0,5.0,7.5,3.49,Hyundai,2
+Hyundai Verna CRDi 1.4 E,2,2008,121097,2,1,2,24.0,1396,88.76,5.0,13.5,1.9,Hyundai,4
+Hyundai i10 Sportz AT,7,2014,61517,1,2,1,16.95,1197,78.9,5.0,6.5,4.39,Hyundai,3
+Hyundai i20 Magna 1.4 CRDi,4,2015,66823,2,1,2,22.54,1396,88.73,5.0,10.0,4.83,Hyundai,1
+Hyundai i20 Asta 1.4 CRDi,2,2012,107000,2,1,2,21.27,1396,88.76,5.0,10.0,4.5,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Sportz AT,3,2018,20667,1,2,1,18.9,1197,81.86,5.0,7.5,7.55,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz,7,2019,18453,1,1,1,18.9,1197,81.86,5.0,7.5,6.17,Hyundai,2
+Hyundai Verna CRDi 1.6 SX,5,2008,96578,2,1,1,22.0,1582,126.2,5.0,13.5,2.5,Hyundai,4
+Hyundai Verna 1.6 SX,6,2012,65900,2,1,1,22.32,1582,126.32,5.0,13.5,5.75,Hyundai,4
+Hyundai i20 Era 1.4 CRDi,7,2014,46566,2,1,1,22.54,1396,88.76,5.0,10.0,4.4,Hyundai,1
+Hyundai Verna 1.6 SX CRDi (O),4,2012,70707,2,1,1,22.32,1582,126.32,5.0,13.5,4.28,Hyundai,4
+Hyundai Grand i10 1.2 Kappa Magna AT,1,2018,3000,1,2,1,18.9,1197,81.86,5.0,7.5,6.2,Hyundai,2
+Hyundai i10 Era 1.1 iTech SE,6,2010,52000,1,1,2,19.81,1086,68.05,5.0,6.5,2.25,Hyundai,3
+Hyundai Verna CRDi SX,0,2013,75000,2,1,1,16.8,1493,110.0,5.0,13.5,6.0,Hyundai,4
+Hyundai i20 1.2 Spotz,9,2017,18673,1,1,1,18.6,1197,81.83,5.0,10.0,6.22,Hyundai,1
+Hyundai Verna 1.6 SX CRDI (O) AT,7,2016,44875,2,2,2,22.32,1582,126.32,5.0,13.5,8.01,Hyundai,4
+Hyundai i20 Asta 1.2,9,2015,42575,1,1,1,18.6,1197,81.83,5.0,10.0,5.05,Hyundai,1
+Hyundai Verna 1.6 VTVT S,6,2015,89000,1,1,1,17.01,1591,121.3,5.0,13.5,7.5,Hyundai,4
+Hyundai i20 1.4 Asta (AT),2,2009,72000,1,2,3,15.0,1396,100.0,5.0,10.0,3.25,Hyundai,1
+Hyundai Verna 1.6 VTVT EX AT,7,2014,35642,1,2,1,17.01,1591,121.4,5.0,13.5,6.69,Hyundai,4
+Hyundai i20 1.4 CRDi Asta,8,2011,37000,2,1,1,23.0,1396,90.0,5.0,10.0,2.95,Hyundai,1
+Hyundai i20 Asta (o),4,2014,42365,1,1,1,17.0,1197,80.0,5.0,10.0,5.5,Hyundai,1
+Hyundai i10 Sportz,2,2012,49000,1,1,1,20.36,1197,78.9,5.0,6.5,3.0,Hyundai,3
+Hyundai Verna 1.6 SX VTVT,10,2014,48000,1,1,2,17.01,1591,121.3,5.0,13.5,5.2,Hyundai,4
+Hyundai Verna 1.6 CRDI,9,2011,74000,2,1,2,22.32,1582,126.3,5.0,13.5,3.75,Hyundai,4
+Hyundai Verna 1.6 CRDI,8,2014,32000,2,1,1,22.32,1582,126.3,5.0,13.5,4.3,Hyundai,4
+Hyundai Grand i10 1.2 CRDi Sportz Option,8,2014,42277,2,1,1,24.0,1186,73.97,5.0,7.5,3.85,Hyundai,2
+Hyundai Grand i10 Asta Option,1,2015,50000,1,1,1,18.9,1197,82.0,5.0,7.5,5.75,Hyundai,2
+Hyundai i10 Magna 1.2,9,2008,62000,1,1,2,20.36,1197,78.9,5.0,6.5,1.65,Hyundai,3
+Hyundai i20 1.2 Sportz Option,2,2011,32200,1,1,2,17.0,1197,80.0,5.0,10.0,3.25,Hyundai,1
+Hyundai i20 1.4 CRDi Asta,5,2012,60788,2,1,1,23.0,1396,90.0,5.0,10.0,4.5,Hyundai,1
+Hyundai i20 1.2 Sportz,1,2012,52237,1,1,1,17.0,1197,80.0,5.0,10.0,4.5,Hyundai,1
+Hyundai Verna 1.6 SX,2,2012,128000,2,1,1,22.32,1582,126.32,5.0,13.5,5.0,Hyundai,4
+Hyundai i10 Era 1.1,4,2011,54000,1,1,1,19.81,1086,68.05,5.0,6.5,2.2,Hyundai,3
+Hyundai i10 Magna(O) with Sun Roof,10,2008,68000,1,1,2,16.0,1086,66.7,5.0,6.5,2.0,Hyundai,3
+Hyundai i10 Magna 1.2,6,2010,81402,1,1,2,20.36,1197,78.9,5.0,6.5,2.1,Hyundai,3
+Hyundai Grand i10 CRDi Sportz Celebration Edition,7,2017,34429,2,1,1,24.0,1120,70.0,5.0,7.5,5.5,Hyundai,2
+Hyundai Grand i10 AT Asta,3,2017,23576,1,2,1,18.9,1197,82.0,5.0,7.5,7.08,Hyundai,2
+Hyundai Verna 1.6 SX VTVT (O),3,2015,52191,1,1,1,17.1,1591,121.3,5.0,13.5,7.78,Hyundai,4
+Hyundai i20 1.4 Asta CRDi with AVN,5,2016,77076,2,1,1,23.0,1396,90.0,5.0,10.0,6.75,Hyundai,1
+Hyundai i10 Magna,8,2013,21000,1,1,1,20.36,1197,78.9,5.0,6.5,2.35,Hyundai,3
+Hyundai i20 1.2 Sportz Option,7,2014,55804,1,1,1,17.0,1197,80.0,5.0,10.0,4.76,Hyundai,1
+Hyundai i20 1.2 Spotz,3,2018,22684,1,1,1,18.6,1197,81.83,5.0,10.0,7.8,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Magna,4,2017,12248,1,1,1,18.9,1197,81.86,5.0,7.5,4.9,Hyundai,2
+Hyundai Grand i10 Sportz,4,2016,81605,1,1,1,18.9,1197,82.0,5.0,7.5,4.53,Hyundai,2
+Hyundai Verna 1.6 SX VTVT AT,10,2014,34200,1,2,1,15.74,1591,121.3,5.0,13.5,6.5,Hyundai,4
+Hyundai Grand i10 1.2 Kappa Sportz,7,2018,10393,1,1,1,18.9,1197,81.86,5.0,7.5,6.03,Hyundai,2
+Hyundai i10 Sportz AT,2,2013,21000,1,2,1,16.95,1197,78.9,5.0,6.5,3.96,Hyundai,3
+Hyundai i20 1.4 CRDi Asta,5,2011,113562,2,1,1,23.0,1396,90.0,5.0,10.0,4.6,Hyundai,1
+Hyundai i20 1.2 Magna Executive,6,2017,58500,1,1,1,18.6,1197,81.83,5.0,10.0,6.25,Hyundai,1
+Hyundai Verna CRDi SX,2,2011,108242,2,1,1,16.8,1493,110.0,5.0,13.5,4.25,Hyundai,4
+Hyundai i10 Era 1.1,7,2013,34697,1,1,1,19.81,1086,68.05,5.0,6.5,3.7,Hyundai,3
+Hyundai i20 1.2 Sportz,5,2012,58000,1,1,1,17.0,1197,80.0,5.0,10.0,4.0,Hyundai,1
+Hyundai Grand i10 Sportz,3,2015,36840,1,1,1,18.9,1197,82.0,5.0,7.5,5.64,Hyundai,2
+Hyundai Grand i10 Sportz,7,2016,19947,1,1,1,18.9,1197,82.0,5.0,7.5,5.04,Hyundai,2
+Hyundai i20 1.2 Magna,2,2011,37442,1,1,1,18.5,1197,80.0,5.0,10.0,3.4,Hyundai,1
+Hyundai Grand i10 Magna,6,2014,42355,1,1,1,18.9,1197,82.0,5.0,7.5,4.0,Hyundai,2
+Hyundai i20 1.2 Magna Executive,7,2016,28470,1,1,1,18.6,1197,81.83,5.0,10.0,6.95,Hyundai,1
+Hyundai i20 Sportz 1.2,2,2017,8000,1,1,1,18.6,1197,81.83,5.0,10.0,6.75,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),10,2013,21107,1,1,1,17.1,1591,121.3,5.0,13.5,5.25,Hyundai,4
+Hyundai Grand i10 1.2 Kappa Asta,3,2016,43041,1,1,1,18.9,1197,81.86,5.0,7.5,6.01,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Magna,8,2017,31184,1,1,1,18.9,1197,81.86,5.0,7.5,5.0,Hyundai,2
+Hyundai Verna 1.6 SX,3,2014,83558,2,1,1,22.32,1582,126.32,5.0,13.5,6.98,Hyundai,4
+Hyundai i20 Sportz Petrol,9,2010,73000,1,1,1,17.0,1197,80.0,5.0,10.0,2.75,Hyundai,1
+Hyundai i20 1.2 Magna Executive,7,2019,27339,1,1,1,18.6,1197,81.83,5.0,10.0,6.27,Hyundai,1
+Hyundai Verna 1.6 CRDi SX,8,2017,25000,2,1,1,23.9,1582,126.2,5.0,13.5,8.65,Hyundai,4
+Hyundai Grand i10 Asta,8,2014,37000,1,1,1,18.9,1197,82.0,5.0,7.5,3.5,Hyundai,2
+Hyundai i20 Magna,8,2012,37000,1,1,1,18.5,1197,80.0,5.0,10.0,2.65,Hyundai,1
+Hyundai i20 Magna 1.4 CRDi,10,2015,29000,2,1,2,22.54,1396,88.73,5.0,10.0,7.0,Hyundai,1
+Hyundai i20 1.2 Magna,6,2011,82000,1,1,2,18.5,1197,80.0,5.0,10.0,2.7,Hyundai,1
+Hyundai i10 Sportz 1.2,2,2010,77000,1,1,2,20.36,1197,78.9,5.0,6.5,2.1,Hyundai,3
+Hyundai i10 Era,5,2007,70000,1,1,2,19.81,1086,68.05,5.0,6.5,2.0,Hyundai,3
+Hyundai Grand i10 1.2 Kappa Magna,7,2018,46493,1,1,1,18.9,1197,81.86,5.0,7.5,5.53,Hyundai,2
+Hyundai i10 Sportz 1.2,10,2009,68000,1,1,3,20.36,1197,78.9,5.0,6.5,1.95,Hyundai,3
+Hyundai i10 Era 1.1,2,2008,85445,1,1,2,19.81,1086,68.05,5.0,6.5,2.0,Hyundai,3
+Hyundai i10 Sportz,6,2014,60000,1,1,1,20.36,1197,78.9,5.0,6.5,3.25,Hyundai,3
+Hyundai Grand i10 Sportz,8,2018,1800,1,1,1,18.9,1197,82.0,5.0,7.5,5.1,Hyundai,2
+Hyundai i20 Magna,6,2012,100000,1,1,1,18.5,1197,82.85,5.0,10.0,3.25,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Sportz,4,2018,9434,1,1,1,18.9,1197,81.86,5.0,7.5,5.75,Hyundai,2
+Hyundai i20 1.2 Sportz,4,2015,42000,1,1,1,17.0,1197,80.0,5.0,10.0,5.1,Hyundai,1
+Hyundai i10 Magna AT,9,2009,21000,1,2,1,19.2,1197,80.0,5.0,6.5,2.6,Hyundai,3
+Hyundai i10 Magna,8,2012,58235,1,1,1,20.36,1197,78.9,5.0,6.5,2.45,Hyundai,3
+Hyundai i20 Asta 1.4 CRDi,3,2016,44487,2,1,1,22.54,1396,88.73,5.0,10.0,7.3,Hyundai,1
+Hyundai i10 Magna,4,2015,34951,1,1,2,20.36,1197,78.9,5.0,6.5,3.15,Hyundai,3
+Hyundai i20 Magna,4,2012,54000,1,1,1,18.5,1197,82.85,5.0,10.0,3.3,Hyundai,1
+Hyundai Verna VTVT 1.6 SX Option,4,2013,57478,1,1,2,17.0,1591,121.3,5.0,13.5,5.25,Hyundai,4
+Hyundai i20 1.4 CRDi Magna,5,2011,75000,2,1,1,21.9,1396,90.0,5.0,10.0,3.75,Hyundai,1
+Hyundai Verna 1.6 SX CRDI (O) AT,1,2018,75000,2,2,1,22.32,1582,126.32,5.0,13.5,7.75,Hyundai,4
+Hyundai i10 Sportz 1.2,9,2010,62000,1,1,1,20.36,1197,78.9,5.0,6.5,2.1,Hyundai,3
+Hyundai Grand i10 Sportz,7,2016,26038,1,1,1,18.9,1197,82.0,5.0,7.5,5.43,Hyundai,2
+Hyundai i20 1.4 CRDi Magna,5,2012,71360,2,1,1,21.9,1396,90.0,5.0,10.0,3.95,Hyundai,1
+Hyundai Verna 1.6 CRDi EX MT,7,2016,37451,2,1,1,22.32,1582,126.3,5.0,13.5,6.64,Hyundai,4
+Hyundai Grand i10 Asta Option,10,2016,25000,1,1,1,18.9,1197,82.0,5.0,7.5,5.0,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Magna AT,7,2018,5354,1,2,1,18.9,1197,81.86,5.0,7.5,6.76,Hyundai,2
+Hyundai Grand i10 CRDi Magna,5,2015,35000,2,1,1,24.0,1120,70.0,5.0,7.5,4.88,Hyundai,2
+Hyundai i10 Magna 1.2,5,2010,70600,1,1,1,20.36,1197,78.9,5.0,6.5,2.8,Hyundai,3
+Hyundai Grand i10 AT Asta,3,2017,22526,1,2,1,18.9,1197,82.0,5.0,7.5,7.6,Hyundai,2
+Hyundai Verna 1.4 VTVT,8,2015,33425,1,1,1,17.43,1396,105.5,5.0,13.5,4.5,Hyundai,4
+Hyundai i10 Magna 1.1,4,2011,62000,1,1,1,19.81,1086,68.05,5.0,6.5,2.1,Hyundai,3
+Hyundai Verna SX CRDi AT,9,2014,71000,2,2,2,19.08,1582,126.32,5.0,13.5,5.45,Hyundai,4
+Hyundai i10 Sportz 1.2,5,2012,45000,1,1,1,20.36,1197,78.9,5.0,6.5,3.65,Hyundai,3
+Hyundai Grand i10 1.2 Kappa Asta,3,2016,37429,1,1,1,18.9,1197,81.86,5.0,7.5,5.89,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz,0,2015,20780,1,1,1,18.9,1197,81.86,5.0,7.5,4.3,Hyundai,2
+Hyundai i10 Sportz,1,2008,84000,1,1,1,20.36,1197,78.9,5.0,6.5,2.5,Hyundai,3
+Hyundai i20 1.4 CRDi Magna,6,2012,51000,2,1,1,21.9,1396,90.0,5.0,10.0,3.9,Hyundai,1
+Hyundai i20 1.4 CRDi Magna,8,2012,60000,2,1,1,21.9,1396,90.0,5.0,10.0,2.74,Hyundai,1
+Hyundai Verna 1.6 SX,2,2012,92000,2,1,3,22.32,1582,126.32,5.0,13.5,4.0,Hyundai,4
+Hyundai i20 1.2 Era,8,2015,35000,1,1,1,17.0,1197,80.0,5.0,10.0,3.4,Hyundai,1
+Hyundai i20 Asta 1.4 CRDi (Diesel),0,2009,68000,2,1,2,23.0,1396,90.0,5.0,10.0,3.95,Hyundai,1
+Hyundai Grand i10 AT Asta,2,2016,18000,1,2,1,18.9,1197,82.0,5.0,7.5,5.4,Hyundai,2
+Hyundai i20 Magna,4,2009,46946,1,1,2,18.5,1197,80.0,5.0,10.0,2.35,Hyundai,1
+Hyundai i20 Magna 1.4 CRDi,7,2015,64399,2,1,1,21.9,1396,90.0,5.0,10.0,5.02,Hyundai,1
+Hyundai Verna 1.6 VTVT EX AT,9,2013,24000,1,2,1,17.01,1591,121.4,5.0,13.5,5.95,Hyundai,4
+Hyundai i20 Sportz 1.2,6,2016,30292,1,1,1,18.6,1197,81.83,5.0,10.0,6.3,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,4,2014,55000,2,1,1,22.54,1396,88.73,5.0,10.0,5.64,Hyundai,1
+Hyundai i10 Asta Sunroof AT,9,2011,54000,1,2,1,19.2,1197,80.0,5.0,6.5,2.9,Hyundai,3
+Hyundai i20 Sportz 1.2,4,2015,50000,1,1,1,18.6,1197,81.83,5.0,10.0,4.95,Hyundai,1
+Hyundai i10 Sportz,7,2012,42591,1,1,1,20.36,1197,78.9,5.0,6.5,3.2,Hyundai,3
+Hyundai i20 1.4 CRDi Sportz,1,2012,67000,2,1,1,23.0,1396,90.0,5.0,10.0,4.5,Hyundai,1
+Hyundai Verna 1.6 SX CRDI (O) AT,6,2014,97000,2,2,1,22.32,1582,126.32,5.0,13.5,8.0,Hyundai,4
+Hyundai Verna 1.6 VTVT,1,2012,73000,1,1,1,17.01,1591,121.3,5.0,13.5,5.5,Hyundai,4
+Hyundai Grand i10 Asta,8,2014,44300,1,1,2,18.9,1197,82.0,5.0,7.5,2.3,Hyundai,2
+Hyundai i10 Sportz,4,2012,59000,1,1,1,20.36,1197,78.9,5.0,6.5,2.85,Hyundai,3
+Hyundai Verna 1.6 SX CRDi (O),8,2013,47000,2,1,1,22.32,1582,126.32,5.0,13.5,4.35,Hyundai,4
+Hyundai i10 Sportz,0,2014,47003,1,1,1,20.36,1197,78.9,5.0,6.5,3.67,Hyundai,3
+Hyundai Grand i10 Asta,3,2018,20492,1,1,1,18.9,1197,82.0,5.0,7.5,6.34,Hyundai,2
+Hyundai i10 Magna,7,2011,65423,1,1,1,20.36,1197,78.9,5.0,6.5,3.16,Hyundai,3
+Hyundai Grand i10 CRDi Sportz,8,2014,25135,2,1,1,24.0,1120,70.0,5.0,7.5,3.75,Hyundai,2
+Hyundai i20 1.2 Sportz,0,2013,40000,1,1,1,17.0,1197,80.0,5.0,10.0,4.9,Hyundai,1
+Hyundai i20 2015-2017 1.4 Magna ABS,10,2012,64000,2,1,1,21.9,1396,90.0,5.0,10.0,4.25,Hyundai,1
+Hyundai i20 1.2 Sportz,3,2015,29634,1,1,2,17.0,1197,80.0,5.0,10.0,6.0,Hyundai,1
+Hyundai Verna 1.6 VTVT,8,2012,24000,1,1,2,17.01,1591,121.3,5.0,13.5,6.2,Hyundai,4
+Hyundai Grand i10 1.2 CRDi Sportz,7,2017,20773,2,1,1,24.0,1186,73.97,5.0,7.5,5.92,Hyundai,2
+Hyundai Verna 1.6 VTVT,10,2011,68000,1,1,1,17.01,1591,121.3,5.0,13.5,3.7,Hyundai,4
+Hyundai i20 Magna 1.4 CRDi (Diesel),6,2013,51873,2,1,1,21.9,1396,88.76,5.0,10.0,3.9,Hyundai,1
+Hyundai i10 Magna,8,2007,71600,1,1,2,20.36,1197,78.9,5.0,6.5,2.0,Hyundai,3
+Hyundai i20 Sportz 1.2,7,2016,61823,1,1,1,18.6,1197,81.83,5.0,10.0,6.14,Hyundai,1
+Hyundai i10 Magna LPG,6,2012,53000,3,1,2,19.2,1086,68.05,5.0,6.5,2.85,Hyundai,3
+Hyundai i10 Magna 1.1,3,2013,64466,1,1,1,19.81,1086,68.05,5.0,6.5,3.96,Hyundai,3
+Hyundai Grand i10 Sportz,7,2016,59767,1,1,1,18.9,1197,82.0,5.0,7.5,4.78,Hyundai,2
+Hyundai i20 2015-2017 1.2 Asta,10,2010,72000,1,1,2,17.0,1197,80.0,5.0,10.0,2.75,Hyundai,1
+Hyundai Verna 1.6 SX VTVT,9,2014,11000,1,1,1,17.01,1591,121.3,5.0,13.5,5.95,Hyundai,4
+Hyundai i10 Era 1.1,6,2011,70000,1,1,1,19.81,1086,68.05,5.0,6.5,2.15,Hyundai,3
+Hyundai Verna CRDi ABS,2,2008,120000,2,1,2,18.1,1493,110.0,5.0,13.5,2.0,Hyundai,4
+Hyundai Grand i10 CRDi Asta,0,2014,116905,2,1,1,24.0,1120,70.0,5.0,7.5,4.0,Hyundai,2
+Hyundai i10 Sportz AT,3,2011,32824,1,2,1,16.95,1197,78.9,5.0,6.5,3.83,Hyundai,3
+Hyundai Verna 1.4 VTVT,1,2016,36000,1,1,1,17.43,1396,105.5,5.0,13.5,8.0,Hyundai,4
+Hyundai i20 Sportz 1.2,9,2017,14001,1,1,1,18.6,1197,81.83,5.0,10.0,5.75,Hyundai,1
+Hyundai Verna 1.6 SX,4,2011,103814,2,1,2,22.32,1582,126.32,5.0,13.5,4.5,Hyundai,4
+Hyundai i10 Era,7,2013,56075,1,1,1,19.81,1086,68.05,5.0,6.5,3.12,Hyundai,3
+Hyundai i10 Magna,9,2008,38235,1,1,1,20.36,1197,78.9,5.0,6.5,1.95,Hyundai,3
+Hyundai i10 Sportz 1.2,8,2011,37000,1,1,1,20.36,1197,78.9,5.0,6.5,2.2,Hyundai,3
+Hyundai Grand i10 Asta,2,2013,90000,1,1,1,18.9,1197,82.0,5.0,7.5,3.55,Hyundai,2
+Hyundai i10 Sportz,3,2012,47324,1,1,2,20.36,1197,78.9,5.0,6.5,4.52,Hyundai,3
+Hyundai i20 2015-2017 Magna 1.2,10,2016,20600,1,1,1,18.6,1197,81.83,5.0,10.0,5.4,Hyundai,1
+Hyundai i20 Sportz Option 1.2,4,2016,38000,1,1,1,18.6,1197,81.83,5.0,10.0,5.95,Hyundai,1
+Hyundai i10 Sportz 1.2,5,2011,60000,1,1,1,20.36,1197,78.9,5.0,6.5,3.2,Hyundai,3
+Hyundai i20 Magna,8,2009,30675,1,1,1,18.5,1197,80.0,5.0,10.0,2.25,Hyundai,1
+Hyundai Verna CRDi 1.6 SX Option,10,2017,50000,2,1,1,22.0,1582,126.2,5.0,13.5,11.5,Hyundai,4
+Hyundai Grand i10 CRDi Sportz,6,2016,46522,2,1,1,24.0,1120,70.0,5.0,7.5,4.5,Hyundai,2
+Hyundai Grand i10 CRDi SportZ Edition,7,2015,66337,2,1,1,24.0,1120,70.0,5.0,7.5,4.96,Hyundai,2
+Hyundai Verna Transform SX VTVT,1,2011,61000,1,1,2,16.2,1599,103.2,5.0,13.5,3.4,Hyundai,4
+Hyundai Grand i10 AT Asta,3,2015,33931,1,2,2,18.9,1197,82.0,5.0,7.5,5.91,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz Option,3,2019,13916,1,1,1,18.9,1197,81.86,5.0,7.5,6.44,Hyundai,2
+Hyundai Grand i10 Sportz,6,2015,14000,1,1,1,18.9,1197,82.0,5.0,7.5,4.6,Hyundai,2
+Hyundai i20 Asta 1.2,3,2016,17560,1,1,1,18.6,1197,81.83,5.0,10.0,7.21,Hyundai,1
+Hyundai i20 1.2 Asta Option,6,2017,8000,1,1,1,18.6,1197,81.83,5.0,10.0,7.5,Hyundai,1
+Hyundai i10 Era,0,2012,60000,1,1,2,19.81,1086,68.05,5.0,6.5,2.65,Hyundai,3
+Hyundai i10 Sportz AT,0,2012,37229,1,2,1,16.95,1197,78.9,5.0,6.5,3.41,Hyundai,3
+Hyundai i10 Magna,3,2012,43766,1,1,1,20.36,1197,78.9,5.0,6.5,4.3,Hyundai,3
+Hyundai i20 1.4 Sportz,3,2018,18521,2,1,1,22.54,1396,88.73,5.0,10.0,9.18,Hyundai,1
+Hyundai Verna 1.6 SX CRDI (O) AT,8,2014,48000,2,2,1,22.32,1582,126.32,5.0,13.5,5.1,Hyundai,4
+Hyundai Verna 1.6 SX,4,2014,62000,2,1,1,22.32,1582,126.32,5.0,13.5,5.7,Hyundai,4
+Hyundai i20 Active 1.2 SX Dual Tone,10,2016,6000,1,1,1,17.19,1197,81.86,5.0,10.0,7.25,Hyundai,1
+Hyundai Verna CRDi,5,2011,70000,2,1,1,16.8,1493,110.0,5.0,13.5,5.1,Hyundai,4
+Hyundai i20 Active S Diesel,6,2015,81310,2,1,1,21.19,1396,88.76,5.0,10.0,5.9,Hyundai,1
+Hyundai Grand i10 Sportz,6,2017,23000,1,1,1,18.9,1197,82.0,5.0,7.5,4.5,Hyundai,2
+Hyundai Verna 1.6 CRDi S,2,2016,31000,2,1,1,23.9,1582,126.2,5.0,13.5,9.0,Hyundai,4
+Hyundai i20 Sportz 1.2,4,2013,92408,1,1,1,18.5,1197,82.85,5.0,10.0,3.65,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),1,2014,45000,1,1,1,17.1,1591,121.3,5.0,13.5,7.5,Hyundai,4
+Hyundai i10 Sportz,8,2016,7000,1,1,1,20.36,1197,78.9,5.0,6.5,3.6,Hyundai,3
+Hyundai i20 Magna 1.4 CRDi (Diesel),5,2017,14061,2,1,1,21.9,1396,88.76,5.0,10.0,7.4,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),9,2011,61600,1,1,1,17.1,1591,121.3,5.0,13.5,4.2,Hyundai,4
+Hyundai i20 Asta (o) 1.4 CRDi (Diesel),6,2014,82450,2,1,1,23.0,1396,90.0,5.0,10.0,5.85,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Sportz,7,2018,20689,1,1,1,18.9,1197,81.86,5.0,7.5,6.07,Hyundai,2
+Hyundai i20 1.2 Magna,3,2012,38214,1,1,2,18.5,1197,80.0,5.0,10.0,4.05,Hyundai,1
+Hyundai i20 1.4 CRDi Sportz,10,2012,90000,2,1,1,23.0,1396,90.0,5.0,10.0,4.11,Hyundai,1
+Hyundai i10 Era,9,2010,55000,1,1,2,19.81,1086,68.05,5.0,6.5,1.59,Hyundai,3
+Hyundai Grand i10 1.2 Kappa Sportz,9,2018,3958,1,1,1,18.9,1197,81.86,5.0,7.5,5.55,Hyundai,2
+Hyundai Verna 1.6 SX CRDi (O),7,2016,16159,2,1,1,22.32,1582,126.32,5.0,13.5,7.83,Hyundai,4
+Hyundai i20 Active 1.2 SX,3,2017,35043,1,1,1,17.19,1197,81.86,5.0,10.0,8.19,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),3,2013,66930,1,1,1,17.1,1591,121.3,5.0,13.5,6.15,Hyundai,4
+Hyundai i20 Sportz 1.2,8,2013,40300,1,1,1,18.5,1197,82.85,5.0,10.0,2.8,Hyundai,1
+Hyundai i10 Magna 1.2,9,2012,51000,1,1,1,20.36,1197,78.9,5.0,6.5,2.85,Hyundai,3
+Hyundai Grand i10 Asta,3,2016,61578,1,1,1,18.9,1197,82.0,5.0,7.5,6.4,Hyundai,2
+Hyundai i20 Asta Option 1.2,9,2015,39000,1,1,1,18.6,1197,81.83,5.0,10.0,5.5,Hyundai,1
+Hyundai i20 Sportz Diesel,3,2011,68439,2,1,1,23.0,1396,90.0,5.0,10.0,3.37,Hyundai,1
+Hyundai Grand i10 1.2 CRDi Sportz Option,6,2017,26877,2,1,1,24.0,1186,73.97,5.0,7.5,5.75,Hyundai,2
+Hyundai i20 Sportz 1.2,8,2015,32000,1,1,1,18.6,1197,81.83,5.0,10.0,4.8,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Sportz,6,2018,10000,1,1,1,18.9,1197,81.86,5.0,7.5,5.85,Hyundai,2
+Hyundai Grand i10 Era,8,2014,19500,1,1,2,18.9,1197,82.0,5.0,7.5,2.85,Hyundai,2
+Hyundai Grand i10 Asta Option,1,2014,30000,1,1,2,18.9,1197,82.0,5.0,7.5,4.9,Hyundai,2
+Hyundai Grand i10 Sportz,9,2016,10770,1,1,1,18.9,1197,82.0,5.0,7.5,4.75,Hyundai,2
+Hyundai i20 1.2 Spotz,9,2017,14000,1,1,1,18.6,1197,81.83,5.0,10.0,5.95,Hyundai,1
+Hyundai i20 1.4 CRDi Magna,5,2010,94500,2,1,2,21.9,1396,90.0,5.0,10.0,3.1,Hyundai,1
+Hyundai Verna 1.6 SX VTVT,9,2014,9000,1,1,2,17.01,1591,121.3,5.0,13.5,5.5,Hyundai,4
+Hyundai i10 Magna AT,1,2008,58483,1,2,2,19.2,1197,80.0,5.0,6.5,2.95,Hyundai,3
+Hyundai i10 Sportz 1.2,5,2010,50000,1,1,1,20.36,1197,78.9,5.0,6.5,3.0,Hyundai,3
+Hyundai Verna 1.6 EX VTVT,8,2014,58000,1,1,1,17.01,1591,121.3,5.0,13.5,4.59,Hyundai,4
+Hyundai i20 Asta Option 1.2,5,2017,19860,1,1,1,18.6,1197,81.83,5.0,10.0,6.95,Hyundai,1
+Hyundai Verna 1.6 SX,5,2014,39791,2,1,1,22.32,1582,126.32,5.0,13.5,7.49,Hyundai,4
+Hyundai i20 Asta 1.2,1,2015,39000,1,1,2,18.6,1197,81.83,5.0,10.0,6.3,Hyundai,1
+Hyundai Verna 1.6 VTVT,8,2011,36226,1,1,1,17.01,1591,121.3,5.0,13.5,2.95,Hyundai,4
+Hyundai i10 Magna 1.2,7,2017,49045,1,1,1,20.36,1197,78.9,5.0,6.5,4.07,Hyundai,3
+Hyundai Verna CRDi SX ABS,5,2008,150000,2,1,1,18.1,1493,110.0,5.0,13.5,3.0,Hyundai,4
+Hyundai Verna 1.6 SX VTVT,9,2014,11000,1,1,1,17.01,1591,121.3,5.0,13.5,6.1,Hyundai,4
+Hyundai i20 1.4 Asta CRDi with AVN,10,2012,75000,2,1,1,23.0,1396,90.0,5.0,10.0,4.0,Hyundai,1
+Hyundai Verna CRDi,1,2010,72010,2,1,1,16.8,1493,110.0,5.0,13.5,4.45,Hyundai,4
+Hyundai i20 1.4 Asta,9,2015,57000,2,1,1,22.54,1396,88.73,5.0,10.0,6.35,Hyundai,1
+Hyundai i20 1.2 Magna,9,2011,52359,1,1,1,18.5,1197,80.0,5.0,10.0,3.25,Hyundai,1
+Hyundai i20 Magna Optional 1.4 CRDi,0,2012,55362,2,1,1,21.9,1396,88.8,5.0,10.0,4.25,Hyundai,1
+Hyundai i20 1.4 Sportz,3,2019,32251,2,1,1,22.54,1396,88.73,5.0,10.0,8.61,Hyundai,1
+Hyundai i10 Sportz AT,1,2009,60510,1,2,2,16.95,1197,78.9,5.0,6.5,3.1,Hyundai,3
+Hyundai Verna 1.6 VTVT,2,2013,34620,1,1,2,17.01,1591,121.3,5.0,13.5,5.35,Hyundai,4
+Hyundai i10 Era 1.1,1,2010,56000,1,1,1,19.81,1086,68.05,5.0,6.5,2.85,Hyundai,3
+Hyundai i10 Sportz,3,2013,32776,1,1,1,20.36,1197,78.9,5.0,6.5,4.64,Hyundai,3
+Hyundai i20 Asta,7,2010,30754,1,1,1,17.0,1197,80.0,5.0,10.0,3.38,Hyundai,1
+Hyundai Grand i10 Sportz,3,2017,33284,1,1,1,18.9,1197,82.0,5.0,7.5,5.84,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Magna AT,3,2019,12153,1,2,1,18.9,1197,81.86,5.0,7.5,6.84,Hyundai,2
+Hyundai Grand i10 Magna,6,2016,22000,1,1,1,18.9,1197,82.0,5.0,7.5,4.25,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz Option,6,2017,14700,1,1,1,18.9,1197,81.86,5.0,7.5,5.6,Hyundai,2
+Hyundai Verna 1.6 SX,8,2011,34994,2,1,1,22.32,1582,126.32,5.0,13.5,3.9,Hyundai,4
+Hyundai Grand i10 Asta,1,2016,51866,1,1,1,18.9,1197,82.0,5.0,7.5,5.5,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Asta,3,2017,62788,1,1,1,18.9,1197,81.86,5.0,7.5,6.08,Hyundai,2
+Hyundai Verna 1.6 EX VTVT,8,2012,14800,1,1,1,17.01,1591,121.3,5.0,13.5,4.4,Hyundai,4
+Hyundai Verna SX CRDi AT,5,2011,104000,2,2,1,19.08,1582,126.32,5.0,13.5,5.75,Hyundai,4
+Hyundai i20 Sportz AT 1.4,1,2013,72000,1,2,1,15.0,1396,98.6,5.0,10.0,4.75,Hyundai,1
+Hyundai Verna 1.6 SX VTVT,2,2016,51000,1,1,1,17.01,1591,121.3,5.0,13.5,6.5,Hyundai,4
+Hyundai Verna 1.6 CRDi EX AT,10,2013,114000,2,2,1,22.32,1582,126.3,5.0,13.5,6.75,Hyundai,4
+Hyundai Grand i10 Magna AT,9,2016,9000,1,2,1,18.9,1197,82.0,5.0,7.5,5.45,Hyundai,2
+Hyundai Verna Transform CRDi VGT SX ABS,5,2010,120000,2,1,2,16.2,1493,110.0,5.0,13.5,3.5,Hyundai,4
+Hyundai i10 Magna 1.2,8,2011,35082,1,1,1,20.36,1197,78.9,5.0,6.5,2.21,Hyundai,3
+Hyundai Grand i10 CRDi Sportz,5,2016,75700,2,1,1,24.0,1120,70.0,5.0,7.5,5.7,Hyundai,2
+Hyundai i10 Asta 1.2 AT with Sunroof,5,2011,54348,1,2,1,19.2,1197,80.0,5.0,6.5,4.0,Hyundai,3
+Hyundai i10 Magna 1.2,6,2013,75049,1,1,2,20.36,1197,78.9,5.0,6.5,3.0,Hyundai,3
+Hyundai i20 Sportz AT 1.4,1,2012,58000,1,2,2,15.0,1396,98.6,5.0,10.0,4.4,Hyundai,1
+Hyundai i20 1.4 CRDi Magna,8,2011,38277,2,1,1,21.9,1396,90.0,5.0,10.0,2.4,Hyundai,1
+Hyundai i20 Magna 1.4 CRDi,0,2014,64000,2,1,1,21.9,1396,90.0,5.0,10.0,4.25,Hyundai,1
+Hyundai Grand i10 Sportz,2,2015,15000,1,1,1,18.9,1197,82.0,5.0,7.5,4.9,Hyundai,2
+Hyundai i20 1.4 CRDi Sportz,9,2014,32720,2,1,1,23.0,1396,90.0,5.0,10.0,4.5,Hyundai,1
+Hyundai Verna 1.6 SX,5,2012,65000,2,1,1,22.32,1582,126.32,5.0,13.5,6.2,Hyundai,4
+Hyundai i20 Magna Optional 1.4 CRDi,2,2012,70000,2,1,1,21.9,1396,88.8,5.0,10.0,4.0,Hyundai,1
+Hyundai i10 Magna,0,2014,51000,1,1,1,20.36,1197,78.9,5.0,6.5,3.75,Hyundai,3
+Hyundai Grand i10 Magna,8,2016,21000,1,1,1,18.9,1197,82.0,5.0,7.5,3.75,Hyundai,2
+Hyundai Grand i10 SportZ Edition,1,2015,50000,1,1,1,18.9,1197,81.86,5.0,7.5,4.75,Hyundai,2
+Hyundai i10 Magna 1.1 iTech SE,7,2017,42883,1,1,1,19.81,1086,68.05,5.0,6.5,4.27,Hyundai,3
+Hyundai Verna 1.6 CRDI AT SX Option,2,2016,27000,2,2,1,19.08,1582,126.2,5.0,13.5,8.6,Hyundai,4
+Hyundai i10 Sportz Option,10,2013,45000,1,1,1,20.36,1197,78.9,5.0,6.5,3.55,Hyundai,3
+Hyundai i20 1.2 Asta Option,5,2018,11691,1,1,1,18.6,1197,81.83,5.0,10.0,8.9,Hyundai,1
+Hyundai Verna Transform SX VGT CRDi,5,2010,118077,2,1,1,16.2,1493,110.0,5.0,13.5,3.85,Hyundai,4
+Hyundai Verna 1.6 SX VTVT (O) AT,2,2012,36300,1,2,3,17.1,1591,121.4,5.0,13.5,7.5,Hyundai,4
+Hyundai i20 Sportz Option Diesel,5,2012,42600,2,1,1,23.0,1396,90.0,5.0,10.0,4.99,Hyundai,1
+Hyundai i20 Sportz Option,9,2014,17858,1,1,1,17.0,1197,80.0,5.0,10.0,5.32,Hyundai,1
+Hyundai i10 Sportz,5,2012,53000,1,1,1,20.36,1197,78.9,5.0,6.5,3.2,Hyundai,3
+Hyundai i20 Asta 1.4 CRDi,6,2013,129000,2,1,3,21.27,1396,88.76,5.0,10.0,4.11,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Asta,1,2014,61325,1,1,1,18.9,1197,81.86,5.0,7.5,4.4,Hyundai,2
+Hyundai i10 Sportz,2,2010,26966,1,1,1,20.36,1197,78.9,5.0,6.5,3.0,Hyundai,3
+Hyundai i20 1.2 Asta Option,5,2017,12000,1,1,1,18.6,1197,81.83,5.0,10.0,7.75,Hyundai,1
+Hyundai Grand i10 Magna,7,2014,48031,1,1,1,18.9,1197,82.0,5.0,7.5,4.98,Hyundai,2
+Hyundai i10 Magna AT,5,2009,50902,1,2,1,19.2,1197,80.0,5.0,6.5,3.0,Hyundai,3
+Hyundai Grand i10 1.2 Kappa Sportz,3,2014,33496,1,1,1,18.9,1197,81.86,5.0,7.5,5.5,Hyundai,2
+Hyundai i20 Asta Option 1.2,9,2015,25000,1,1,1,18.6,1197,81.83,5.0,10.0,5.65,Hyundai,1
+Hyundai i20 Sportz Option 1.2,3,2016,44238,1,1,1,18.6,1197,81.83,5.0,10.0,6.72,Hyundai,1
+Hyundai Verna 1.6 SX,5,2012,83678,2,1,1,22.32,1582,126.32,5.0,13.5,5.5,Hyundai,4
+Hyundai i20 Asta 1.4 CRDi,10,2015,54339,2,1,2,22.54,1396,88.73,5.0,10.0,6.0,Hyundai,1
+Hyundai i20 Asta Option 1.4 CRDi,3,2017,24153,2,1,2,22.54,1396,88.73,5.0,10.0,9.18,Hyundai,1
+Hyundai Verna 1.4 EX,5,2012,93000,2,1,1,23.5,1396,88.7,5.0,13.5,5.55,Hyundai,4
+Hyundai Grand i10 Asta Option AT,3,2017,27417,1,2,1,18.9,1197,82.0,5.0,7.5,6.89,Hyundai,2
+Hyundai i20 Magna Optional 1.2,7,2014,44525,1,1,1,18.5,1197,82.9,5.0,10.0,4.65,Hyundai,1
+Hyundai Grand i10 1.2 CRDi Sportz,2,2018,48000,2,1,1,24.0,1186,73.97,5.0,7.5,5.95,Hyundai,2
+Hyundai Verna 1.4 CX VTVT,8,2014,19000,1,1,1,17.43,1396,105.5,5.0,13.5,5.25,Hyundai,4
+Hyundai i10 Asta Sunroof AT,5,2013,89000,1,2,1,19.2,1197,80.0,5.0,6.5,4.19,Hyundai,3
+Hyundai Verna 1.6 SX VTVT,9,2011,58000,1,1,2,17.01,1591,121.3,5.0,13.5,4.0,Hyundai,4
+Hyundai Grand i10 CRDi Sportz,4,2013,63210,2,1,1,24.0,1120,70.0,5.0,7.5,3.71,Hyundai,2
+Hyundai i10 Era,0,2008,60000,1,1,1,19.81,1086,68.05,5.0,6.5,1.99,Hyundai,3
+Hyundai i10 Magna 1.2 iTech SE,9,2011,9489,1,1,1,20.36,1197,78.9,5.0,6.5,2.95,Hyundai,3
+Hyundai i20 1.2 Spotz,3,2018,20632,1,1,1,18.6,1197,81.83,5.0,10.0,7.58,Hyundai,1
+Hyundai Grand i10 CRDi Magna,5,2014,73042,2,1,1,24.0,1120,70.0,5.0,7.5,3.99,Hyundai,2
+Hyundai Verna 1.4 CRDi GL,8,2012,38000,2,1,1,24.8,1396,88.7,5.0,13.5,4.1,Hyundai,4
+Hyundai Verna 1.6 CRDi S,4,2015,57000,2,1,1,23.9,1582,126.2,5.0,13.5,6.6,Hyundai,4
+Hyundai Verna VTVT 1.6 AT EX,10,2013,37086,1,2,1,17.0,1591,121.3,5.0,13.5,5.44,Hyundai,4
+Hyundai i20 2015-2017 Sportz AT 1.4,10,2012,56200,1,2,1,15.0,1396,98.6,5.0,10.0,3.85,Hyundai,1
+Hyundai Verna Transform VTVT,5,2011,51500,1,1,2,16.2,1599,103.2,5.0,13.5,2.6,Hyundai,4
+Hyundai i20 1.2 Spotz,9,2017,3900,1,1,1,18.6,1197,81.83,5.0,10.0,6.45,Hyundai,1
+Hyundai i10 Sportz 1.2,1,2010,29000,1,1,1,20.36,1197,78.9,5.0,6.5,3.45,Hyundai,3
+Hyundai Grand i10 Sportz,10,2016,13436,1,1,2,18.9,1197,82.0,5.0,7.5,4.7,Hyundai,2
+Hyundai Verna SX CRDi AT,4,2013,51000,2,2,1,19.08,1582,126.32,5.0,13.5,5.64,Hyundai,4
+Hyundai i20 Sportz Option Diesel,7,2013,67914,2,1,1,23.0,1396,90.0,5.0,10.0,3.45,Hyundai,1
+Hyundai i10 Sportz AT,4,2012,62282,1,2,1,16.95,1197,78.9,5.0,6.5,2.9,Hyundai,3
+Hyundai Grand i10 Sportz,7,2018,43698,1,1,1,18.9,1197,82.0,5.0,7.5,5.8,Hyundai,2
+Hyundai Grand i10 Asta Option AT,3,2017,28052,1,2,1,18.9,1197,82.0,5.0,7.5,7.22,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz,3,2016,29091,1,1,1,18.9,1197,81.86,5.0,7.5,4.87,Hyundai,2
+Hyundai Verna 1.6 SX VTVT AT,1,2014,45000,1,2,1,15.74,1591,121.3,5.0,13.5,7.5,Hyundai,4
+Hyundai i20 1.2 Spotz,7,2017,51612,1,1,1,18.6,1197,81.83,5.0,10.0,7.11,Hyundai,1
+Hyundai Grand i10 CRDi Magna,9,2013,71904,2,1,1,24.0,1120,70.0,5.0,7.5,4.61,Hyundai,2
+Hyundai Grand i10 CRDi Magna,2,2014,33000,2,1,2,24.0,1120,70.0,5.0,7.5,4.05,Hyundai,2
+Hyundai i20 Magna 1.4 CRDi,4,2015,44000,2,1,1,22.54,1396,88.73,5.0,10.0,5.35,Hyundai,1
+Hyundai i20 2015-2017 1.2 Magna,10,2012,39000,1,1,1,18.5,1197,80.0,5.0,10.0,2.75,Hyundai,1
+Hyundai Grand i10 AT Asta,2,2015,15000,1,2,1,18.9,1197,82.0,5.0,7.5,5.5,Hyundai,2
+Hyundai Verna 1.6 SX CRDi (O),0,2012,52000,2,1,1,22.32,1582,126.32,5.0,13.5,6.5,Hyundai,4
+Hyundai Verna CRDi,5,2008,90000,2,1,2,16.8,1493,110.0,5.0,13.5,2.25,Hyundai,4
+Hyundai Verna 1.6 CRDI SX Option,7,2019,30529,2,1,1,23.9,1582,126.2,5.0,13.5,14.28,Hyundai,4
+Hyundai i10 Sportz 1.2,5,2013,59000,1,1,1,20.36,1197,78.9,5.0,6.5,3.45,Hyundai,3
+Hyundai Grand i10 Asta Option,9,2017,13000,1,1,1,18.9,1197,82.0,5.0,7.5,5.15,Hyundai,2
+Hyundai i20 Magna 1.4 CRDi (Diesel),8,2015,45000,2,1,1,21.9,1396,88.76,5.0,10.0,3.45,Hyundai,1
+Hyundai Grand i10 Sportz,9,2013,26000,1,1,1,18.9,1197,82.0,5.0,7.5,3.75,Hyundai,2
+Hyundai i20 1.2 Spotz,2,2017,5000,1,1,1,18.6,1197,81.83,5.0,10.0,6.95,Hyundai,1
+Hyundai i20 Magna,8,2010,38000,1,1,1,18.5,1197,80.0,5.0,10.0,2.23,Hyundai,1
+Hyundai Verna 1.6 SX VTVT,10,2013,41500,1,1,2,17.01,1591,121.3,5.0,13.5,5.0,Hyundai,4
+Hyundai Verna VTVT 1.6 SX,8,2018,5000,1,1,1,17.0,1591,121.3,5.0,13.5,8.7,Hyundai,4
+Hyundai i20 1.2 Sportz,8,2016,19008,1,1,1,17.0,1197,80.0,5.0,10.0,5.25,Hyundai,1
+Hyundai Verna VTVT 1.6 SX,7,2012,32542,1,1,1,17.0,1591,121.3,5.0,13.5,5.77,Hyundai,4
+Hyundai i20 1.2 Sportz,0,2011,72000,1,1,2,17.0,1197,80.0,5.0,10.0,3.25,Hyundai,1
+Hyundai i10 Sportz 1.1L,8,2016,7200,1,1,1,19.81,1086,68.05,5.0,6.5,3.59,Hyundai,3
+Hyundai Grand i10 Sportz,3,2017,23540,1,1,1,18.9,1197,82.0,5.0,7.5,6.02,Hyundai,2
+Hyundai i20 Sportz 1.2,8,2015,35000,1,1,1,18.6,1197,81.83,5.0,10.0,4.43,Hyundai,1
+Hyundai Grand i10 AT Asta,3,2015,69053,1,2,1,18.9,1197,82.0,5.0,7.5,5.72,Hyundai,2
+Hyundai Grand i10 CRDi Sportz,8,2014,43068,2,1,1,24.0,1120,70.0,5.0,7.5,3.5,Hyundai,2
+Hyundai i10 Magna,3,2011,50436,1,1,1,20.36,1197,78.9,5.0,6.5,3.65,Hyundai,3
+Hyundai Grand i10 AT Asta,1,2014,21000,1,2,1,18.9,1197,82.0,5.0,7.5,5.4,Hyundai,2
+Hyundai i10 Magna AT,3,2011,50058,1,2,1,19.2,1197,80.0,5.0,6.5,3.84,Hyundai,3
+Hyundai i20 1.2 Magna Executive,9,2018,17000,1,1,1,18.6,1197,81.83,5.0,10.0,6.5,Hyundai,1
+Hyundai i20 Asta,2,2011,24000,1,1,1,17.0,1197,80.0,5.0,10.0,4.25,Hyundai,1
+Hyundai Grand i10 Asta,8,2015,15305,1,1,1,18.9,1197,82.0,5.0,7.5,3.75,Hyundai,2
+Hyundai Verna 1.6 VTVT AT SX,7,2018,33858,1,2,1,17.01,1591,121.3,5.0,13.5,9.03,Hyundai,4
+Hyundai i20 1.2 Sportz,10,2011,54000,1,1,1,17.0,1197,80.0,5.0,10.0,3.2,Hyundai,1
+Hyundai i20 Active 1.4 SX Dual Tone,8,2015,27000,2,1,1,21.19,1396,88.73,5.0,10.0,5.99,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,1,2013,60000,2,1,1,21.9,1396,88.76,5.0,10.0,5.45,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O) AT,9,2013,44000,1,2,1,17.1,1591,121.4,5.0,13.5,5.6,Hyundai,4
+Hyundai i20 Asta Optional with Sunroof 1.2,9,2012,50000,1,1,1,18.5,1197,82.85,5.0,10.0,3.7,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,8,2013,25500,2,1,1,21.9,1396,88.76,5.0,10.0,3.55,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,6,2013,70933,2,1,2,21.9,1396,88.76,5.0,10.0,3.9,Hyundai,1
+Hyundai Verna 1.6 SX CRDi (O),8,2014,58000,2,1,1,22.32,1582,126.32,5.0,13.5,5.75,Hyundai,4
+Hyundai Grand i10 CRDi Magna,4,2014,42000,2,1,1,24.0,1120,70.0,5.0,7.5,3.5,Hyundai,2
+Hyundai i20 Sportz 1.4 CRDi,4,2017,25500,2,1,1,22.54,1396,88.73,5.0,10.0,7.0,Hyundai,1
+Hyundai i20 Sportz 1.2,9,2016,6000,1,1,1,18.6,1197,81.83,5.0,10.0,5.95,Hyundai,1
+Hyundai i10 Sportz 1.1L,9,2011,15590,1,1,1,19.81,1086,68.05,5.0,6.5,2.25,Hyundai,3
+Hyundai i20 1.2 Sportz Option,7,2016,69681,1,1,1,17.0,1197,80.0,5.0,10.0,6.13,Hyundai,1
+Hyundai i10 Sportz 1.2 AT,10,2013,15200,1,2,2,16.95,1197,78.9,5.0,6.5,3.85,Hyundai,3
+Hyundai i20 Sportz 1.4 CRDi,0,2016,74000,2,1,1,21.9,1396,88.76,5.0,10.0,6.5,Hyundai,1
+Hyundai Verna 1.6 CRDi SX,4,2015,62542,2,1,2,23.9,1582,126.2,5.0,13.5,6.5,Hyundai,4
+Hyundai i20 Asta 1.2,3,2016,40310,1,1,1,18.6,1197,81.83,5.0,10.0,7.09,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Asta,4,2018,10000,1,1,1,18.9,1197,81.86,5.0,7.5,6.5,Hyundai,2
+Hyundai Verna 1.6 SX VTVT,1,2014,45000,1,1,2,17.01,1591,121.3,5.0,13.5,6.75,Hyundai,4
+Hyundai i20 1.2 Asta with AVN,3,2015,20045,1,1,1,17.0,1197,80.0,5.0,10.0,6.22,Hyundai,1
+Hyundai i10 Magna 1.2 iTech SE,8,2012,31000,1,1,1,20.36,1197,78.9,5.0,6.5,2.25,Hyundai,3
+Hyundai i10 Magna 1.2,6,2011,40496,1,1,1,20.36,1197,78.9,5.0,6.5,2.65,Hyundai,3
+Hyundai i10 Magna 1.1,0,2013,49000,1,1,1,19.81,1086,68.05,5.0,6.5,3.2,Hyundai,3
+Hyundai Verna 1.6 SX,5,2012,65254,2,1,1,22.32,1582,126.32,5.0,13.5,6.55,Hyundai,4
+Hyundai Verna 1.6 SX,1,2014,95000,2,1,2,22.32,1582,126.32,5.0,13.5,6.9,Hyundai,4
+Hyundai Verna 1.6 CRDI,6,2011,72000,2,1,1,22.32,1582,126.3,5.0,13.5,5.0,Hyundai,4
+Hyundai i20 1.2 Magna,8,2010,45000,1,1,1,18.5,1197,80.0,5.0,10.0,1.9,Hyundai,1
+Hyundai i10 Magna 1.1,4,2013,53213,1,1,1,19.81,1086,68.05,5.0,6.5,2.74,Hyundai,3
+Hyundai i10 Era,6,2009,57000,1,1,1,19.81,1086,68.05,5.0,6.5,2.25,Hyundai,3
+Hyundai Verna VTVT 1.6 SX,1,2014,46676,1,1,1,17.0,1591,121.3,5.0,13.5,7.75,Hyundai,4
+Hyundai i10 Asta,8,2011,43000,1,1,1,20.36,1197,78.9,5.0,6.5,2.49,Hyundai,3
+Hyundai i10 Magna 1.2,8,2011,38002,1,1,1,20.36,1197,78.9,5.0,6.5,2.15,Hyundai,3
+Hyundai Verna 1.6 SX CRDI (O) AT,10,2014,57539,2,2,1,22.32,1582,126.32,5.0,13.5,7.75,Hyundai,4
+Hyundai i20 Sportz Option,4,2010,62489,1,1,1,17.0,1197,80.0,5.0,10.0,2.6,Hyundai,1
+Hyundai Verna Transform Xxi ABS,1,2011,60000,1,1,1,16.2,1599,103.2,5.0,13.5,3.95,Hyundai,4
+Hyundai i20 Sportz 1.2,7,2015,40901,1,1,1,18.6,1197,81.83,5.0,10.0,5.76,Hyundai,1
+Hyundai i10 Magna 1.2,3,2013,36264,1,1,1,20.36,1197,78.9,5.0,6.5,4.32,Hyundai,3
+Hyundai i10 Magna 1.1L,4,2009,60000,1,1,2,19.81,1086,68.05,5.0,6.5,1.9,Hyundai,3
+Hyundai i10 Era 1.1,6,2008,82203,1,1,1,19.81,1086,68.05,5.0,6.5,1.8,Hyundai,3
+Hyundai i20 1.2 Magna,7,2014,44612,1,1,1,18.5,1197,80.0,5.0,10.0,4.07,Hyundai,1
+Hyundai Grand i10 Asta Option AT,9,2016,15000,1,2,1,18.9,1197,82.0,5.0,7.5,5.35,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz,3,2017,38712,1,1,1,18.9,1197,81.86,5.0,7.5,5.87,Hyundai,2
+Hyundai i20 1.2 Magna,1,2010,52000,1,1,1,18.5,1197,80.0,5.0,10.0,3.65,Hyundai,1
+Hyundai i20 Asta Option 1.4 CRDi,3,2016,99362,2,1,1,22.54,1396,88.73,5.0,10.0,7.03,Hyundai,1
+Hyundai i10 Sportz,5,2016,19947,1,1,1,20.36,1197,78.9,5.0,6.5,4.5,Hyundai,3
+Hyundai i10 Sportz 1.2 AT,2,2011,70816,1,2,1,16.95,1197,78.9,5.0,6.5,3.1,Hyundai,3
+Hyundai Grand i10 Sportz,3,2017,47774,1,1,1,18.9,1197,82.0,5.0,7.5,6.04,Hyundai,2
+Hyundai i20 Magna 1.2,4,2015,21000,1,1,1,18.6,1197,81.83,5.0,10.0,4.9,Hyundai,1
+Hyundai i10 Sportz,10,2014,90000,1,1,2,20.36,1197,78.9,5.0,6.5,2.8,Hyundai,3
+Hyundai i10 Asta,9,2015,75915,1,1,1,20.36,1197,78.9,5.0,6.5,3.9,Hyundai,3
+Hyundai Verna CRDi ABS,2,2009,160000,2,1,2,18.1,1493,110.0,5.0,13.5,3.5,Hyundai,4
+Hyundai i20 Sportz 1.4 CRDi,5,2015,72495,2,1,1,21.9,1396,88.76,5.0,10.0,7.0,Hyundai,1
+Hyundai Verna 1.6 CRDi AT S,2,2016,33000,2,2,1,19.08,1582,126.2,5.0,13.5,8.7,Hyundai,4
+Hyundai Grand i10 1.2 Kappa Magna,8,2018,4500,1,1,1,18.9,1197,81.86,5.0,7.5,4.8,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Asta,7,2017,51223,1,1,1,18.9,1197,81.86,5.0,7.5,5.66,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Asta,5,2017,22500,1,1,1,18.9,1197,81.86,5.0,7.5,5.99,Hyundai,2
+Hyundai i20 1.2 Magna Executive,4,2017,17431,1,1,1,18.6,1197,81.83,5.0,10.0,6.0,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),4,2014,61566,1,1,1,17.1,1591,121.3,5.0,13.5,5.85,Hyundai,4
+Hyundai Verna 1.6 SX VTVT (O),4,2013,52000,1,1,1,17.1,1591,121.3,5.0,13.5,5.25,Hyundai,4
+Hyundai i10 Sportz AT,0,2012,58000,1,2,1,16.95,1197,78.9,5.0,6.5,3.5,Hyundai,3
+Hyundai i10 Sportz,3,2015,41008,1,1,2,20.36,1197,78.9,5.0,6.5,4.87,Hyundai,3
+Hyundai Verna VTVT 1.6 SX Option,7,2016,52378,1,1,1,17.0,1591,121.3,5.0,13.5,7.97,Hyundai,4
+Hyundai i20 Magna Optional 1.2,1,2013,445000,1,1,1,18.5,1197,82.9,5.0,10.0,4.45,Hyundai,1
+Hyundai i10 Sportz 1.2,3,2014,47439,1,1,1,20.36,1197,78.9,5.0,6.5,4.49,Hyundai,3
+Hyundai i20 2015-2017 1.2 Asta with AVN,10,2010,50000,1,1,2,17.0,1197,80.0,5.0,10.0,3.0,Hyundai,1
+Hyundai Verna CRDi SX,5,2013,79663,2,1,1,16.8,1493,110.0,5.0,13.5,6.5,Hyundai,4
+Hyundai i20 Asta 1.4 CRDi,5,2012,80000,2,1,1,21.27,1396,88.76,5.0,10.0,4.5,Hyundai,1
+Hyundai i20 1.2 Magna,8,2011,36000,1,1,1,18.5,1197,80.0,5.0,10.0,2.5,Hyundai,1
+Hyundai i10 Sportz 1.1L,8,2015,24350,1,1,2,19.81,1086,68.05,5.0,6.5,3.0,Hyundai,3
+Hyundai i20 Magna 1.2,7,2017,14064,1,1,1,18.6,1197,81.83,5.0,10.0,6.59,Hyundai,1
+Hyundai i10 Era 1.1 iTech SE,10,2008,72672,1,1,1,19.81,1086,68.05,5.0,6.5,1.9,Hyundai,3
+Hyundai i20 Magna,6,2013,59000,1,1,2,18.5,1197,80.0,5.0,10.0,4.1,Hyundai,1
+Hyundai Grand i10 1.2 CRDi Asta,7,2015,81828,2,1,1,24.0,1186,73.97,5.0,7.5,5.43,Hyundai,2
+Hyundai Grand i10 AT Asta,0,2015,46000,1,2,1,18.9,1197,82.0,5.0,7.5,5.1,Hyundai,2
+Hyundai Verna 1.6 SX CRDi (O),5,2013,48158,2,1,1,22.32,1582,126.32,5.0,13.5,6.7,Hyundai,4
+Hyundai Verna SX CRDi AT,10,2012,83000,2,2,1,19.08,1582,126.32,5.0,13.5,6.0,Hyundai,4
+Hyundai i20 Active 1.4 SX,7,2018,37746,2,1,1,21.19,1396,88.73,5.0,10.0,7.59,Hyundai,1
+Hyundai Grand i10 AT Asta,3,2016,36139,1,2,2,18.9,1197,82.0,5.0,7.5,6.3,Hyundai,2
+Hyundai i10 Magna,9,2010,55980,1,1,1,20.36,1197,78.9,5.0,6.5,2.25,Hyundai,3
+Hyundai i20 Sportz 1.4 CRDi,10,2012,49700,2,1,2,21.9,1396,88.76,5.0,10.0,4.18,Hyundai,1
+Hyundai Verna 1.4 EX,2,2013,79000,2,1,1,23.5,1396,88.7,5.0,13.5,6.5,Hyundai,4
+Hyundai Verna 1.6 CRDi AT SX,7,2016,42876,2,2,1,19.08,1582,126.2,5.0,13.5,9.31,Hyundai,4
+Hyundai i20 Sportz Petrol,7,2011,62020,1,1,1,17.0,1197,80.0,5.0,10.0,3.45,Hyundai,1
+Hyundai Grand i10 AT Asta,5,2016,21000,1,2,1,18.9,1197,82.0,5.0,7.5,6.2,Hyundai,2
+Hyundai i20 Magna,2,2010,95000,1,1,2,18.5,1197,80.0,5.0,10.0,2.8,Hyundai,1
+Hyundai Grand i10 AT Asta,10,2015,32000,1,2,1,18.9,1197,82.0,5.0,7.5,4.8,Hyundai,2
+Hyundai Verna VTVT 1.6 SX Option,7,2019,12336,1,1,1,17.0,1591,121.3,5.0,13.5,11.88,Hyundai,4
+Hyundai Verna Xi (Petrol),2,2009,60000,1,1,3,13.9,1599,103.2,5.0,13.5,2.25,Hyundai,4
+Hyundai i10 Era 1.1,9,2013,49000,1,1,1,19.81,1086,68.05,5.0,6.5,2.75,Hyundai,3
+Hyundai Grand i10 1.2 Kappa Sportz Option,10,2017,15356,1,1,1,18.9,1197,81.86,5.0,7.5,4.75,Hyundai,2
+Hyundai Grand i10 Asta Option,3,2017,31576,1,1,1,18.9,1197,82.0,5.0,7.5,7.85,Hyundai,2
+Hyundai Verna SX CRDi AT,2,2012,41000,2,2,1,19.08,1582,126.32,5.0,13.5,6.25,Hyundai,4
+Hyundai i20 1.2 Asta,2,2011,47000,1,1,1,17.0,1197,80.0,5.0,10.0,4.5,Hyundai,1
+Hyundai i10 Magna,9,2011,41000,1,1,1,20.36,1197,78.9,5.0,6.5,2.65,Hyundai,3
+Hyundai Verna 1.6 SX CRDi (O),6,2013,69573,2,1,2,22.32,1582,126.32,5.0,13.5,5.85,Hyundai,4
+Hyundai i20 Sportz Option 1.2,4,2015,36000,1,1,2,18.6,1197,81.83,5.0,10.0,4.95,Hyundai,1
+Hyundai i20 Sportz 1.2,3,2016,16725,1,1,1,18.6,1197,81.83,5.0,10.0,6.79,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,1,2012,68000,2,1,1,21.9,1396,88.76,5.0,10.0,4.4,Hyundai,1
+Hyundai i10 Sportz,3,2014,31446,1,1,1,20.36,1197,78.9,5.0,6.5,4.66,Hyundai,3
+Hyundai Grand i10 Asta,2,2015,25000,1,1,1,18.9,1197,82.0,5.0,7.5,5.5,Hyundai,2
+Hyundai i20 Asta 1.2,0,2016,57000,1,1,1,18.6,1197,81.83,5.0,10.0,6.0,Hyundai,1
+Hyundai i20 Sportz Diesel,0,2010,62000,2,1,1,23.0,1396,90.0,5.0,10.0,2.7,Hyundai,1
+Hyundai i10 Era,3,2013,65807,1,1,1,19.81,1086,68.05,5.0,6.5,3.39,Hyundai,3
+Hyundai i20 1.4 CRDi Sportz,5,2015,68525,2,1,1,23.0,1396,90.0,5.0,10.0,7.0,Hyundai,1
+Hyundai Verna 1.6 SX VTVT (O),7,2017,19387,1,1,1,17.1,1591,121.3,5.0,13.5,8.42,Hyundai,4
+Hyundai i20 Sportz 1.2,9,2016,24001,1,1,1,18.6,1197,81.83,5.0,10.0,5.75,Hyundai,1
+Hyundai Grand i10 CRDi Sportz,3,2017,60993,2,1,1,24.0,1120,70.0,5.0,7.5,5.21,Hyundai,2
+Hyundai Grand i10 CRDi Sportz,7,2014,51134,2,1,1,24.0,1120,70.0,5.0,7.5,4.72,Hyundai,2
+Hyundai i10 Sportz,9,2009,48000,1,1,1,20.36,1197,78.9,5.0,6.5,2.11,Hyundai,3
+Hyundai Verna CRDi 1.6 SX Option,5,2008,109606,2,1,1,22.0,1582,126.2,5.0,13.5,2.9,Hyundai,4
+Hyundai i20 1.2 Magna,9,2010,57500,1,1,1,18.5,1197,80.0,5.0,10.0,2.75,Hyundai,1
+Hyundai Grand i10 CRDi SportZ Edition,4,2014,58000,2,1,1,24.0,1120,70.0,5.0,7.5,3.25,Hyundai,2
+Hyundai Grand i10 CRDi Sportz,6,2016,57824,2,1,1,24.0,1120,70.0,5.0,7.5,5.5,Hyundai,2
+Hyundai i20 Active 1.4 SX,5,2016,62679,2,1,1,21.19,1396,88.73,5.0,10.0,6.95,Hyundai,1
+Hyundai i10 Sportz 1.2,8,2015,18000,1,1,1,20.36,1197,78.9,5.0,6.5,2.85,Hyundai,3
+Hyundai i10 Magna AT,7,2010,30566,1,2,1,19.2,1197,80.0,5.0,6.5,3.32,Hyundai,3
+Hyundai i10 Magna 1.2,2,2012,55231,1,1,2,20.36,1197,78.9,5.0,6.5,2.78,Hyundai,3
+Hyundai Verna 1.6 SX,7,2015,60519,2,1,1,22.32,1582,126.32,5.0,13.5,6.24,Hyundai,4
+Hyundai Verna CRDi 1.6 SX Option,9,2013,79225,2,1,1,22.0,1582,126.2,5.0,13.5,5.5,Hyundai,4
+Hyundai Verna 1.6 CRDi S,2,2015,85000,2,1,1,23.9,1582,126.2,5.0,13.5,6.3,Hyundai,4
+Hyundai Grand i10 CRDi Magna,4,2015,63776,2,1,1,24.0,1120,70.0,5.0,7.5,3.96,Hyundai,2
+Hyundai i20 Magna 1.4 CRDi,6,2015,55697,2,1,1,22.54,1396,88.73,5.0,10.0,5.5,Hyundai,1
+Hyundai i20 Magna,9,2010,58000,1,1,2,18.5,1197,80.0,5.0,10.0,2.5,Hyundai,1
+Hyundai Grand i10 Magna,4,2014,31200,1,1,1,18.9,1197,82.0,5.0,7.5,3.9,Hyundai,2
+Hyundai Verna 1.6 SX,4,2011,67000,2,1,1,22.32,1582,126.32,5.0,13.5,3.8,Hyundai,4
+Hyundai i20 Sportz 1.4 CRDi,10,2015,118211,2,1,1,22.54,1396,88.73,5.0,10.0,5.9,Hyundai,1
+Hyundai i10 Sportz,9,2015,20000,1,1,1,20.36,1197,78.9,5.0,6.5,3.75,Hyundai,3
+Hyundai i20 1.2 Spotz,4,2016,32450,1,1,1,18.6,1197,81.83,5.0,10.0,5.75,Hyundai,1
+Hyundai i20 Asta 1.2,3,2015,35441,1,1,1,18.6,1197,81.83,5.0,10.0,6.87,Hyundai,1
+Hyundai Verna 1.6 SX VTVT AT,9,2014,48656,1,2,1,15.74,1591,121.3,5.0,13.5,5.5,Hyundai,4
+Hyundai Verna CRDi 1.6 AT SX Plus,1,2012,79000,2,2,1,22.0,1582,126.2,5.0,13.5,5.25,Hyundai,4
+Hyundai Grand i10 CRDi Magna,5,2014,79000,2,1,1,24.0,1120,70.0,5.0,7.5,4.15,Hyundai,2
+Hyundai i20 Asta 1.2,8,2015,41000,1,1,1,18.6,1197,81.83,5.0,10.0,4.75,Hyundai,1
+Hyundai i20 Magna Optional 1.2,3,2015,14925,1,1,1,18.5,1197,82.9,5.0,10.0,5.37,Hyundai,1
+Hyundai i20 Asta Optional with Sunroof 1.2,7,2013,62132,1,1,1,18.5,1197,82.85,5.0,10.0,4.57,Hyundai,1
+Hyundai i10 Era 1.1,8,2008,55410,1,1,1,19.81,1086,68.05,5.0,6.5,1.65,Hyundai,3
+Hyundai Verna 1.6 SX CRDi (O),2,2012,45000,2,1,1,22.32,1582,126.32,5.0,13.5,6.25,Hyundai,4
+Hyundai i10 Magna 1.2,4,2010,62000,1,1,1,20.36,1197,78.9,5.0,6.5,2.4,Hyundai,3
+Hyundai i20 1.2 Asta,2,2014,41681,1,1,1,17.0,1197,80.0,5.0,10.0,4.55,Hyundai,1
+Hyundai Verna XXi ABS (Petrol),1,2008,38000,1,1,2,13.9,1599,103.2,5.0,13.5,2.6,Hyundai,4
+Hyundai i20 1.4 CRDi Magna,8,2013,60000,2,1,1,21.9,1396,90.0,5.0,10.0,2.95,Hyundai,1
+Hyundai i20 Asta,9,2009,28000,1,1,1,17.0,1197,80.0,5.0,10.0,2.65,Hyundai,1
+Hyundai i10 Magna,7,2012,37333,1,1,1,20.36,1197,78.9,5.0,6.5,3.22,Hyundai,3
+Hyundai i20 1.2 Spotz,7,2018,48407,1,1,1,18.6,1197,81.83,5.0,10.0,7.65,Hyundai,1
+Hyundai i10 Sportz 1.2,10,2010,72400,1,1,2,20.36,1197,78.9,5.0,6.5,2.3,Hyundai,3
+Hyundai Grand i10 1.2 CRDi Sportz,7,2018,32663,2,1,1,24.0,1186,73.97,5.0,7.5,6.28,Hyundai,2
+Hyundai Grand i10 CRDi Sportz,0,2016,30000,2,1,1,24.0,1120,70.0,5.0,7.5,5.5,Hyundai,2
+Hyundai Grand i10 1.2 CRDi Sportz,4,2015,59261,2,1,1,24.0,1186,73.97,5.0,7.5,4.25,Hyundai,2
+Hyundai i20 1.2 Asta Option,1,2016,19000,1,1,1,18.6,1197,81.83,5.0,10.0,7.25,Hyundai,1
+Hyundai i10 Sportz 1.2 AT,10,2013,54534,1,2,1,16.95,1197,78.9,5.0,6.5,3.65,Hyundai,3
+Hyundai i20 Sportz AT 1.4,10,2012,55000,1,2,2,15.0,1396,98.6,5.0,10.0,3.75,Hyundai,1
+Hyundai i20 Active SX Dual Tone Petrol,10,2019,1000,1,1,1,17.19,1197,81.86,5.0,10.0,8.6,Hyundai,1
+Hyundai i20 Magna 1.2,1,2015,53000,1,1,1,18.6,1197,81.83,5.0,10.0,5.5,Hyundai,1
+Hyundai i10 Magna,4,2013,63265,1,1,1,20.36,1197,78.9,5.0,6.5,2.95,Hyundai,3
+Hyundai i20 Active 1.2 S,9,2015,12000,1,1,1,17.19,1197,81.86,5.0,10.0,5.8,Hyundai,1
+Hyundai Verna 1.6 CRDI AT SX Option,3,2017,36931,2,2,1,19.08,1582,126.2,5.0,13.5,9.48,Hyundai,4
+Hyundai i20 Asta Option 1.2,4,2015,45000,1,1,2,18.6,1197,81.83,5.0,10.0,5.5,Hyundai,1
+Hyundai i20 1.2 Sportz,5,2010,85155,1,1,1,17.0,1197,80.0,5.0,10.0,3.55,Hyundai,1
+Hyundai Grand i10 1.2 Kappa Magna,10,2010,45252,1,1,1,18.9,1197,81.86,5.0,7.5,2.25,Hyundai,2
+Hyundai Verna 1.6 CRDi AT SX,7,2016,42024,2,2,1,19.08,1582,126.2,5.0,13.5,9.73,Hyundai,4
+Hyundai i20 2015-2017 Sportz 1.2,10,2017,10000,1,1,1,18.6,1197,81.83,5.0,10.0,6.5,Hyundai,1
+Hyundai Grand i10 CRDi Magna,6,2015,50000,2,1,2,24.0,1120,70.0,5.0,7.5,4.0,Hyundai,2
+Hyundai Grand i10 Sportz,6,2016,26946,1,1,1,18.9,1197,82.0,5.0,7.5,4.45,Hyundai,2
+Hyundai Verna 1.6 SX,2,2013,85350,2,1,2,22.32,1582,126.32,5.0,13.5,5.7,Hyundai,4
+Hyundai Grand i10 CRDi Sportz,7,2015,58397,2,1,1,24.0,1120,70.0,5.0,7.5,4.9,Hyundai,2
+Hyundai i10 Era,7,2016,34952,1,1,1,19.81,1086,68.05,5.0,6.5,4.01,Hyundai,3
+Hyundai i20 1.2 Magna,3,2013,56127,1,1,1,18.5,1197,80.0,5.0,10.0,5.15,Hyundai,1
+Hyundai Verna Xi (Petrol),7,2009,137148,1,1,2,13.9,1599,103.2,5.0,13.5,1.85,Hyundai,4
+Hyundai i20 Magna,2,2009,69000,1,1,2,18.5,1197,80.0,5.0,10.0,2.4,Hyundai,1
+Hyundai Grand i10 Asta Option,9,2015,26000,1,1,1,18.9,1197,82.0,5.0,7.5,4.25,Hyundai,2
+Hyundai i20 1.4 Asta,9,2017,27000,2,1,1,22.54,1396,88.73,5.0,10.0,6.95,Hyundai,1
+Hyundai i20 Active 1.4 SX Dual Tone,7,2016,49716,2,1,1,21.19,1396,88.73,5.0,10.0,6.2,Hyundai,1
+Hyundai Verna 1.4 CRDi,1,2016,79000,2,1,1,24.8,1396,88.7,5.0,13.5,7.25,Hyundai,4
+Hyundai i10 Sportz,7,2012,57184,1,1,1,20.36,1197,78.9,5.0,6.5,3.09,Hyundai,3
+Hyundai Grand i10 Magna,4,2016,22129,1,1,1,18.9,1197,82.0,5.0,7.5,4.25,Hyundai,2
+Hyundai i10 Era,5,2011,60634,1,1,1,19.81,1086,68.05,5.0,6.5,3.3,Hyundai,3
+Hyundai Grand i10 Asta,8,2014,41000,1,1,1,18.9,1197,82.0,5.0,7.5,3.14,Hyundai,2
+Hyundai i10 Magna 1.2,4,2012,62000,1,1,1,20.36,1197,78.9,5.0,6.5,2.5,Hyundai,3
+Hyundai i20 1.2 Magna,3,2011,63991,1,1,1,18.5,1197,80.0,5.0,10.0,3.61,Hyundai,1
+Hyundai Grand i10 Sportz,8,2013,28000,1,1,1,18.9,1197,82.0,5.0,7.5,3.25,Hyundai,2
+Hyundai Verna SX CRDi AT,1,2012,97000,2,2,2,19.08,1582,126.32,5.0,13.5,6.5,Hyundai,4
+Hyundai i20 Asta 1.2,1,2014,31045,1,1,2,18.6,1197,81.83,5.0,10.0,5.65,Hyundai,1
+Hyundai i20 Asta 1.4 CRDi,3,2015,46162,2,1,1,22.54,1396,88.73,5.0,10.0,6.98,Hyundai,1
+Hyundai Verna 1.6 SX VTVT,9,2014,9200,1,1,1,17.01,1591,121.3,5.0,13.5,5.75,Hyundai,4
+Hyundai Verna 1.6 i ABS,10,2007,80000,1,1,2,13.9,1599,103.2,5.0,13.5,1.95,Hyundai,4
+Hyundai i10 Sportz,2,2012,70000,1,1,1,20.36,1197,78.9,5.0,6.5,3.15,Hyundai,3
+Hyundai i10 Asta,0,2011,86000,1,1,1,20.36,1197,78.9,5.0,6.5,3.75,Hyundai,3
+Hyundai Verna 1.6 SX VTVT,3,2019,6028,1,1,1,17.01,1591,121.3,5.0,13.5,11.54,Hyundai,4
+Hyundai i10 Era 1.1 iTech SE,7,2012,65727,1,1,1,19.81,1086,68.05,5.0,6.5,2.97,Hyundai,3
+Hyundai Verna 1.6 VTVT,10,2013,70000,1,1,1,17.01,1591,121.3,5.0,13.5,4.75,Hyundai,4
+Hyundai i20 1.4 Asta Optional With Sunroof,1,2010,77332,2,1,2,23.0,1396,90.0,5.0,10.0,3.65,Hyundai,1
+Hyundai Grand i10 Asta Option AT,7,2017,17489,1,2,1,18.9,1197,82.0,5.0,7.5,5.99,Hyundai,2
+Hyundai i10 Sportz,10,2013,54500,1,1,3,20.36,1197,78.9,5.0,6.5,2.95,Hyundai,3
+Hyundai Verna VTVT 1.6 AT SX Plus,9,2012,75059,1,2,1,17.0,1591,121.3,5.0,13.5,4.25,Hyundai,4
+Hyundai Verna 1.6 SX VTVT (O),8,2013,49000,1,1,1,17.1,1591,121.3,5.0,13.5,4.5,Hyundai,4
+Hyundai i20 Magna Optional 1.2,7,2014,42315,1,1,1,18.5,1197,82.9,5.0,10.0,4.79,Hyundai,1
+Hyundai Verna CRDi,2,2009,64514,2,1,1,16.8,1493,110.0,5.0,13.5,2.9,Hyundai,4
+Hyundai Verna 1.6 SX VTVT,4,2016,35000,1,1,1,17.01,1591,121.3,5.0,13.5,7.4,Hyundai,4
+Hyundai Grand i10 Sportz,6,2015,53000,1,1,2,18.9,1197,82.0,5.0,7.5,4.0,Hyundai,2
+Hyundai i20 1.2 Asta,4,2017,9000,1,1,1,18.6,1197,81.83,5.0,10.0,6.85,Hyundai,1
+Hyundai Verna SX CRDi AT,5,2014,65000,2,2,1,19.08,1582,126.32,5.0,13.5,8.99,Hyundai,4
+Hyundai Verna 1.6 CRDi SX,0,2015,60000,2,1,1,23.9,1582,126.2,5.0,13.5,6.99,Hyundai,4
+Hyundai Grand i10 1.2 Kappa Magna,4,2017,46000,1,1,1,18.9,1197,81.86,5.0,7.5,4.75,Hyundai,2
+Hyundai i10 Magna 1.1,7,2015,31965,1,1,1,19.81,1086,68.05,5.0,6.5,3.55,Hyundai,3
+Hyundai Verna 1.6 SX VTVT,7,2017,41534,1,1,1,17.01,1591,121.3,5.0,13.5,7.99,Hyundai,4
+Hyundai i20 1.4 Sportz,7,2018,40175,2,1,2,22.54,1396,88.73,5.0,10.0,6.36,Hyundai,1
+Hyundai Grand i10 CRDi Sportz,5,2015,76362,2,1,1,24.0,1120,70.0,5.0,7.5,5.5,Hyundai,2
+Hyundai i10 Sportz 1.2 AT,9,2010,57000,1,2,2,16.95,1197,78.9,5.0,6.5,2.5,Hyundai,3
+Hyundai Verna 1.6 SX CRDi (O),10,2012,89000,2,1,1,22.32,1582,126.32,5.0,13.5,6.0,Hyundai,4
+Hyundai i10 Magna 1.2,5,2009,84045,1,1,1,20.36,1197,78.9,5.0,6.5,2.85,Hyundai,3
+Hyundai i20 Sportz Option 1.2,7,2019,12800,1,1,1,18.6,1197,81.83,5.0,10.0,7.67,Hyundai,1
+Hyundai Grand i10 CRDi Sportz,4,2014,65000,2,1,1,24.0,1120,70.0,5.0,7.5,3.99,Hyundai,2
+Hyundai i10 Sportz 1.1L,10,2013,84000,1,1,1,19.81,1086,68.05,5.0,6.5,2.95,Hyundai,3
+Hyundai i20 Asta Option 1.2,8,2015,36000,1,1,1,18.6,1197,81.83,5.0,10.0,4.9,Hyundai,1
+Hyundai i10 Sportz,9,2011,39000,1,1,1,20.36,1197,78.9,5.0,6.5,2.6,Hyundai,3
+Hyundai i20 Asta 1.4 CRDi,8,2012,33249,2,1,1,21.27,1396,88.76,5.0,10.0,3.25,Hyundai,1
+Hyundai i10 Sportz 1.2,5,2011,84912,1,1,1,20.36,1197,78.9,5.0,6.5,3.5,Hyundai,3
+Hyundai i10 Magna 1.2,8,2012,29000,1,1,1,20.36,1197,78.9,5.0,6.5,2.35,Hyundai,3
+Hyundai Verna CRDi,2,2006,200000,2,1,2,16.8,1493,110.0,5.0,13.5,1.85,Hyundai,4
+Hyundai i10 Sportz 1.2,8,2015,28000,1,1,1,20.36,1197,78.9,5.0,6.5,3.4,Hyundai,3
+Hyundai Grand i10 Sportz,3,2017,22831,1,1,1,18.9,1197,82.0,5.0,7.5,6.19,Hyundai,2
+Hyundai Grand i10 Magna,10,2015,21000,1,1,1,18.9,1197,82.0,5.0,7.5,3.75,Hyundai,2
+Hyundai i20 Magna Optional 1.4 CRDi,4,2013,64500,2,1,1,21.9,1396,88.8,5.0,10.0,3.65,Hyundai,1
+Hyundai i20 1.4 Sportz,0,2018,30000,2,1,1,22.54,1396,88.73,5.0,10.0,7.75,Hyundai,1
+Hyundai i20 Sportz 1.4 CRDi,7,2016,55036,2,1,1,22.54,1396,88.73,5.0,10.0,6.35,Hyundai,1
+Hyundai Grand i10 CRDi Asta,1,2016,50000,2,1,1,24.0,1120,70.0,5.0,7.5,5.5,Hyundai,2
+Hyundai Grand i10 1.2 Kappa Sportz,7,2016,28147,1,1,1,18.9,1197,81.86,5.0,7.5,5.07,Hyundai,2
+Hyundai Grand i10 Sportz,9,2015,20000,1,1,1,18.9,1197,82.0,5.0,7.5,3.85,Hyundai,2
+Hyundai Grand i10 Asta,8,2014,37000,1,1,1,18.9,1197,82.0,5.0,7.5,3.45,Hyundai,2
+Hyundai i20 Sportz 1.2,4,2015,42000,1,1,2,18.6,1197,81.83,5.0,10.0,5.8,Hyundai,1
+Hyundai i20 Diesel Asta Option,10,2018,31000,2,1,1,22.54,1396,88.73,5.0,10.0,7.75,Hyundai,1
+Hyundai Verna 1.6 SX,7,2012,58646,2,1,1,22.32,1582,126.32,5.0,13.5,4.74,Hyundai,4
+Hyundai i20 Magna 1.4 CRDi (Diesel),7,2014,53340,2,1,1,21.9,1396,88.76,5.0,10.0,4.35,Hyundai,1
+Hyundai Verna VTVT 1.6 AT SX Option,9,2018,8000,1,2,1,17.0,1591,121.3,5.0,13.5,12.85,Hyundai,4
+Hyundai Verna 1.6 CRDi EX MT,8,2013,53280,2,1,1,22.32,1582,126.3,5.0,13.5,4.7,Hyundai,4
+Hyundai i20 Asta Option 1.2,3,2017,14618,1,1,1,18.6,1197,81.83,5.0,10.0,8.11,Hyundai,1
+Hyundai i20 2015-2017 Magna,10,2010,80561,1,1,1,18.5,1197,80.0,5.0,10.0,2.74,Hyundai,1
+Hyundai i20 Sportz 1.2,1,2014,68010,1,1,2,18.5,1197,82.85,5.0,10.0,5.25,Hyundai,1
