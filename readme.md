@@ -3,7 +3,7 @@ This is a small project using technologies like React as frontend , Django resta
 
 # Machine Learning Part.
 In this project We will use Machine Learning technique to predict What is best Price you can get for your car.
-Here we use boosting algorithm called Xgboost to predict the price.
+Here we use multivariate linear regression
 We first preprocess and clean the data which is in intial.ipynb file .
 We Select two car make that is maruti and hyundai.
 We again preprocess before giving it model seperately in two files i.e., Maruti.ipynb and Hyundai.ipynb.
