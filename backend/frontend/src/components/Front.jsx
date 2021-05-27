@@ -13,6 +13,7 @@ class Front extends React.Component{
     }
     this.myChangeHandler=this.myChangeHandler.bind(this);
     this.mySubmitHandler=this.mySubmitHandler.bind(this);
+    this.clickHandler=this.clickHandler.bind(this);
   }
   myChangeHandler(event){
     let name=event.target.name
@@ -33,6 +34,9 @@ class Front extends React.Component{
       );
     }
   }
+  clickHandler(){
+    window.location.href = "http://localhost:8000/send_email";
+  }
   render(){
     
   return (
@@ -52,11 +56,7 @@ class Front extends React.Component{
     </p>
     <br></br>
     <Form onSubmit={this.mySubmitHandler}>
-        <FormGroup>
-          <Label for="Email">Enter your Email:</Label>
-          <Input id="Email" type="email" required>
-          </Input>
-        </FormGroup>
+      
         <FormGroup>
           <Label for="make"></Label>
           <Input id="make" type="select" name="make" value={this.state.make} onChange={this.myChangeHandler}>
@@ -70,7 +70,10 @@ class Front extends React.Component{
                 <Button type="submit" color="success" disabled={false}>Submit</Button>
           </FormGroup>
     </Form>
-
+    <br></br>
+    <br></br>
+    <br></br>
+    <Button color="primary" onClick={this.clickHandler}>Send Email</Button>
     </div>
   );
   }

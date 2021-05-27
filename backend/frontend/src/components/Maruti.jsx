@@ -13,7 +13,7 @@ export default class hyundai extends React.Component{
             kd:40000,
             ft:2,
             tr:1,
-            ot:0,
+            ot:1,
             ml:22,
             eng:1,
             po:70,

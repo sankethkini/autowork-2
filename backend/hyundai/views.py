@@ -1,4 +1,5 @@
 # from django.shortcuts import render
+import pickle
 from django.contrib.sessions.models import Session
 from django.http import Http404,HttpResponse
 from rest_framework.views import APIView
@@ -7,16 +8,13 @@ from rest_framework.response import Response
 from rest_framework import status
 from django.http import JsonResponse
 from django.core import serializers
-from django.conf import settings
-import json
+from django.conf import settings              
 from django_rest_params.decorators import params
 import numpy
-import xgboost as xgb
 import dill
 import lime
 import lime.lime_tabular
-model=xgb.XGBRegressor()
-model1=xgb.XGBRegressor()
+
 
 @api_view(["GET"])
 def Predict(request):
@@ -33,57 +31,61 @@ def Predict(request):
        st=float(request.query_params['st'])
        np=float(request.query_params['np'])
        md=int(request.query_params['md'])
-       ft1={1:'petrol',2:'diesel',3:'LPG'}
-       loc1={0:'Ahamadabad',1:'Bengaluru',2:'Chennai',3:'Coimbatore',4:'Delhi',5:'Jaipur',6:'Kochi',7:'Kolkata',8:'Mumbai',9:'Pune'}
-       ot1={0:'first',1:'second',3:'third',4:'fourth and above'}
-       tr1={1:'Manual',2:'Automatic'}
+       ds={'Fuel_Type':{1:'petrol',2:'diesel',3:'LPG'},
+       'Location':{0:'Ahamadabad',1:'Bengaluru',2:'Chennai',3:'Coimbatore',4:'Delhi',5:'Jaipur',6:'Kochi',7:'Kolkata',8:'Mumbai',9:'Pune'},
+       'Owner_Type':{1:'first',2:'second',3:'third',4:'fourth and above'},
+       'Transmission':{1:'Manual',2:'Automatic'}}
        pars=[loc,yr,kd,ft,tr,ot,ml,eng,po,st,np,md]
        inp=numpy.array(pars).reshape(1,-1)
        if np<8:
-           model.load_model('./models/hyundail.json')
+           model=pickle.load(open('./models/hyundail.pickel','rb'))
            res=model.predict(inp)
            res=float(res[0])
-           print("this one")
-           print(loc1[loc])
            inp=inp[0]
-           with open('./lime/hyundail', 'rb') as f:
+           with open('./lime/hyundaillime', 'rb') as f:
                 k=dill.load(f)
            data = k.explain_instance(inp, model.predict, num_features=12)
            data1=dict(data.as_list())
            keys=list(data1)
-           values=list(data1.values())
-           keys[2]='Transmission '+tr1[tr]
-           keys[3]='Location '+loc1[loc]
-           keys[4]='Owner '+ot1[ot]
-           keys[6]='Fuel '+ft1[ft]
-           data1={}
+           vals=list(data1.values())
+           resl={}
            for i in range(len(keys)):
-               data1[keys[i]]=values[i]
-           data1['res']=round(res,2)
-           print(data1)
-           return JsonResponse({"result":data1})
+                arr=keys[i].split(' ')
+                found=False
+                for j in arr:
+                    if j in ds.keys():
+                        resl[j+' '+ds[j][1]]=vals[i]
+                        found=True
+                if not found:
+                    resl[keys[i]]=vals[i]      
+           resl['res']=round(res,2)
+           print(resl)
+           return JsonResponse({"result":resl})
        elif np>=8:
-           model.load_model('./models/hyundaih.json')
+           model=pickle.load(open('./models/hyundaih.pickel','rb'))
            res=model.predict(inp)
            res=float(res[0])
+           print(res)
            inp=inp[0]
-           print("this one 1")
-           with open('./lime/hyundaih', 'rb') as f:
+           with open('./lime/hyundaihlime', 'rb') as f:
                 k=dill.load(f)
            data = k.explain_instance(inp, model.predict, num_features=12)
            data1=dict(data.as_list())
            keys=list(data1)
-           values=list(data1.values())
-           keys[2]='Transmission '+tr1[tr]
-           keys[3]='Location '+loc1[loc]
-           keys[4]='Owner '+ot1[ot]
-           keys[6]='Fuel '+ft1[ft]
-           data1={}
+           vals=list(data1.values())
+           resl={}
            for i in range(len(keys)):
-               data1[keys[i]]=values[i]
-           data1['res']=round(res,2)
-           print(data1)
-           return JsonResponse({"result":data1})
+                arr=keys[i].split(' ')
+                found=False
+                for j in arr:
+                    if j in ds.keys():
+                        resl[j+' '+ds[j][1]]=vals[i]
+                        found=True
+                if not found:
+                    resl[keys[i]]=vals[i]      
+           resl['res']=round(res,2)
+           print(resl)
+           return JsonResponse({"result":resl})   
        else:
            return Response('abcd',status.HTTP_400_BAD_REQUEST)     
     except ValueError as e:
